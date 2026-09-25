@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the dominant heart failure phenotype in patients over 75?",
+    "back": "Heart failure with preserved ejection fraction (HFpEF), driven by arterial stiffening and a stiff, poorly relaxing ventricle."
+  },
+  {
+    "id": 2,
+    "domain": "diseases_in_the_elderly",
+    "front": "What ejection fraction cutoff is typically used to define HFpEF?",
+    "back": "An ejection fraction of 50 percent or higher, combined with echocardiographic or biomarker evidence of diastolic dysfunction."
+  },
+  {
+    "id": 3,
+    "domain": "diseases_in_the_elderly",
+    "front": "What scoring systems help confirm an ambiguous HFpEF diagnosis?",
+    "back": "The H2FPEF score and the HFA-PEFF score."
+  },
+  {
+    "id": 4,
+    "domain": "diseases_in_the_elderly",
+    "front": "Which medication class now has strong guideline evidence across the full ejection fraction spectrum, including HFpEF?",
+    "back": "SGLT2 inhibitors, such as dapagliflozin and empagliflozin."
+  },
+  {
+    "id": 5,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why is spironolactone risky in elderly HFpEF patients with reduced GFR?",
+    "back": "It carries meaningful hyperkalemia risk given the near-universal decline in renal function with age."
+  },
+  {
+    "id": 6,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is a common iatrogenic complication of an aggressive diuretic dose increase in a frail elder?",
+    "back": "Overdiuresis causing orthostatic hypotension, falls, and acute kidney injury."
+  },
+  {
+    "id": 7,
+    "domain": "diseases_in_the_elderly",
+    "front": "How many points does age 75 or older contribute to the CHA2DS2-VASc score?",
+    "back": "2 points."
+  },
+  {
+    "id": 8,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the purpose of the HAS-BLED score?",
+    "back": "To identify modifiable bleeding risk factors, not to serve as a reason to withhold anticoagulation outright."
+  },
+  {
+    "id": 9,
+    "domain": "diseases_in_the_elderly",
+    "front": "How many falls per year would a patient need to sustain for anticoagulation bleeding risk to outweigh stroke-prevention benefit?",
+    "back": "Approximately 300 falls per year, according to published risk estimates."
+  },
+  {
+    "id": 10,
+    "domain": "diseases_in_the_elderly",
+    "front": "What are the three apixaban dose-reduction criteria?",
+    "back": "Age 80 or older, weight 60 kg or less, and creatinine 1.5 mg/dL or higher; meeting two of three triggers the reduced dose."
+  },
+  {
+    "id": 11,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the reduced apixaban dose when two of three dose-reduction criteria are met?",
+    "back": "2.5 mg twice daily."
+  },
+  {
+    "id": 12,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why are DOACs generally preferred over warfarin in eligible elderly patients?",
+    "back": "Lower rates of intracranial hemorrhage, predictable pharmacokinetics, and no need for routine INR monitoring."
+  },
+  {
+    "id": 13,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the first-line rate control strategy for most asymptomatic older adults with atrial fibrillation?",
+    "back": "Rate control with a beta-blocker, non-dihydropyridine calcium channel blocker, or low-dose digoxin."
+  },
+  {
+    "id": 14,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why does digoxin require lower doses and closer monitoring in older adults?",
+    "back": "Because it is renally cleared and age-related decline in renal function increases toxicity risk."
+  },
+  {
+    "id": 15,
+    "domain": "diseases_in_the_elderly",
+    "front": "What defines orthostatic hypotension?",
+    "back": "A drop in systolic blood pressure of 20 mmHg or more, or diastolic of 10 mmHg or more, within 3 minutes of standing."
+  },
+  {
+    "id": 16,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is post-prandial hypotension and when should it be screened for?",
+    "back": "A drop in blood pressure within 2 hours of eating from splanchnic vasodilation; screen with pre- and post-meal blood pressure checks."
+  },
+  {
+    "id": 17,
+    "domain": "diseases_in_the_elderly",
+    "front": "What condition should be suspected in older men with syncope during head-turning or tight collar use?",
+    "back": "Carotid sinus hypersensitivity, evaluated with monitored carotid sinus massage."
+  },
+  {
+    "id": 18,
+    "domain": "diseases_in_the_elderly",
+    "front": "What age-related change explains blunted compensatory tachycardia during a blood pressure drop?",
+    "back": "Reduced baroreceptor sensitivity."
+  },
+  {
+    "id": 19,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the single most effective intervention for polypharmacy-driven orthostatic hypotension?",
+    "back": "Deprescribing the medications contributing the greatest hypotensive burden."
+  },
+  {
+    "id": 20,
+    "domain": "diseases_in_the_elderly",
+    "front": "What key counseling point is essential when starting midodrine?",
+    "back": "The patient must remain upright for several hours after each dose to avoid supine hypertension."
+  },
+  {
+    "id": 21,
+    "domain": "diseases_in_the_elderly",
+    "front": "What three tests should always be included in an initial syncope evaluation in older adults?",
+    "back": "Orthostatic vital signs, a medication reconciliation, and an ECG."
+  },
+  {
+    "id": 22,
+    "domain": "diseases_in_the_elderly",
+    "front": "What symptoms often replace classic chest pain in elderly patients having acute coronary syndrome?",
+    "back": "Dyspnea, diaphoresis, syncope, delirium, or generalized weakness."
+  },
+  {
+    "id": 23,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is now recognized as an independent predictor of poor outcomes after PCI, sometimes outweighing age?",
+    "back": "Frailty status."
+  },
+  {
+    "id": 24,
+    "domain": "diseases_in_the_elderly",
+    "front": "What systolic blood pressure target did the SPRINT trial validate in ambulatory, non-frail adults over 75?",
+    "back": "Below 120 mmHg."
+  },
+  {
+    "id": 25,
+    "domain": "diseases_in_the_elderly",
+    "front": "What blood pressure target is generally preferred for frail elders or those with limited life expectancy?",
+    "back": "A more permissive target, often below 150/90 mmHg."
+  },
+  {
+    "id": 26,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why does STOPP flag doxazosin monotherapy for hypertension in older adults?",
+    "back": "High risk of orthostatic hypotension."
+  },
+  {
+    "id": 27,
+    "domain": "diseases_in_the_elderly",
+    "front": "What Beers Criteria interaction risks worsening renal function and blunting diuretic effect?",
+    "back": "Combining a loop diuretic with an NSAID."
+  },
+  {
+    "id": 28,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why is immediate-release nifedipine flagged as inappropriate in older adults per Beers Criteria?",
+    "back": "Risk of hypotension and myocardial ischemia from rapid, unpredictable blood pressure drops."
+  },
+  {
+    "id": 29,
+    "domain": "diseases_in_the_elderly",
+    "front": "What percent of new heart failure diagnoses in patients over 75 are HFpEF?",
+    "back": "Roughly half to two-thirds."
+  },
+  {
+    "id": 30,
+    "domain": "diseases_in_the_elderly",
+    "front": "What GOLD spirometric threshold defines COPD?",
+    "back": "A post-bronchodilator FEV1/FVC below 0.70."
+  },
+  {
+    "id": 31,
+    "domain": "diseases_in_the_elderly",
+    "front": "When should inhaled corticosteroids be added to COPD therapy per GOLD algorithms?",
+    "back": "In patients with frequent exacerbations and blood eosinophilia."
+  },
+  {
+    "id": 32,
+    "domain": "diseases_in_the_elderly",
+    "front": "What risk increases with long-term inhaled corticosteroid use in older COPD patients?",
+    "back": "Pneumonia risk."
+  },
+  {
+    "id": 33,
+    "domain": "diseases_in_the_elderly",
+    "front": "What should be assessed before escalating COPD medication in a patient with poor control?",
+    "back": "Inhaler technique, since arthritis, tremor, or cognitive impairment often impair proper device use."
+  },
+  {
+    "id": 34,
+    "domain": "diseases_in_the_elderly",
+    "front": "What device modification helps a patient who cannot coordinate inhaler actuation with inspiration?",
+    "back": "Adding a spacer, or switching to a breath-activated dry powder inhaler."
+  },
+  {
+    "id": 35,
+    "domain": "diseases_in_the_elderly",
+    "front": "What anticholinergic side effect can a LAMA bronchodilator worsen in older men?",
+    "back": "Urinary retention from benign prostatic hyperplasia."
+  },
+  {
+    "id": 36,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why does pneumonia often present without fever in older adults?",
+    "back": "Altered hypothalamic thermoregulation blunts the febrile response with aging."
+  },
+  {
+    "id": 37,
+    "domain": "diseases_in_the_elderly",
+    "front": "What atypical symptoms commonly signal pneumonia in older adults instead of cough and fever?",
+    "back": "Delirium, functional decline, tachypnea, or anorexia."
+  },
+  {
+    "id": 38,
+    "domain": "diseases_in_the_elderly",
+    "front": "What tool is used to guide site-of-care decisions in pneumonia, and what is its limitation in frail elders?",
+    "back": "CURB-65 or the Pneumonia Severity Index; both can underestimate severity in frail patients with low functional reserve."
+  },
+  {
+    "id": 39,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why is a blanket thickened-liquid diet no longer recommended for all dysphagic elders?",
+    "back": "It can reduce quality of life without clearly reducing aspiration pneumonia rates."
+  },
+  {
+    "id": 40,
+    "domain": "diseases_in_the_elderly",
+    "front": "What conditions increase aspiration risk in older adults through pharyngeal muscle dysfunction?",
+    "back": "Stroke, Parkinson disease, dementia, and age-related sarcopenia of pharyngeal muscles."
+  },
+  {
+    "id": 41,
+    "domain": "diseases_in_the_elderly",
+    "front": "Have feeding tubes been shown to reduce aspiration pneumonia or improve survival in advanced dementia?",
+    "back": "No; evidence consistently shows no benefit in either outcome."
+  },
+  {
+    "id": 42,
+    "domain": "diseases_in_the_elderly",
+    "front": "How is the age-adjusted D-dimer cutoff calculated in patients over 50?",
+    "back": "Age multiplied by 10 (in ng/mL)."
+  },
+  {
+    "id": 43,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why does D-dimer rise physiologically with age?",
+    "back": "Due to age-related and inflammatory changes independent of actual thrombus formation."
+  },
+  {
+    "id": 44,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the atypical PE presentation pattern common in older adults?",
+    "back": "Isolated dyspnea, syncope, or delirium rather than classic pleuritic chest pain and hemoptysis."
+  },
+  {
+    "id": 45,
+    "domain": "diseases_in_the_elderly",
+    "front": "What anticoagulant class is generally preferred for treating PE in eligible older adults?",
+    "back": "Direct oral anticoagulants."
+  },
+  {
+    "id": 46,
+    "domain": "diseases_in_the_elderly",
+    "front": "What factors should be weighed when deciding on extended anticoagulation duration after unprovoked PE?",
+    "back": "Recurrence risk versus bleeding risk, considering the patient's remaining life expectancy."
+  },
+  {
+    "id": 47,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why do older adults with OSA sometimes lack the classic obesity phenotype?",
+    "back": "OSA prevalence and presentation patterns shift with age and can occur independent of obesity."
+  },
+  {
+    "id": 48,
+    "domain": "diseases_in_the_elderly",
+    "front": "What type of sleep apnea becomes more common in older adults with heart failure?",
+    "back": "Central sleep apnea, including the Cheyne-Stokes breathing pattern."
+  },
+  {
+    "id": 49,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the diagnostic standard for sleep apnea regardless of age?",
+    "back": "Polysomnography."
+  },
+  {
+    "id": 50,
+    "domain": "diseases_in_the_elderly",
+    "front": "What adherence barriers are more important to address in frail or cognitively impaired CPAP users?",
+    "back": "Proper mask fit and addressing claustrophobia or cognitive barriers to nightly use."
+  },
+  {
+    "id": 51,
+    "domain": "diseases_in_the_elderly",
+    "front": "What mechanism links delayed circulatory time to central sleep apnea in heart failure?",
+    "back": "Delayed circulatory time and altered chemoreceptor sensitivity to carbon dioxide create ventilatory instability."
+  },
+  {
+    "id": 52,
+    "domain": "diseases_in_the_elderly",
+    "front": "What clinical frailty tools are commonly used to assess physiologic reserve in older adults?",
+    "back": "The Clinical Frailty Scale and the Fried frailty phenotype."
+  },
+  {
+    "id": 53,
+    "domain": "diseases_in_the_elderly",
+    "front": "What two deprescribing tools should be used together for a comprehensive medication review?",
+    "back": "STOPP (potentially inappropriate medications) and START (potentially beneficial omissions)."
+  },
+  {
+    "id": 54,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the central geriatric principle for cardiopulmonary treatment intensity?",
+    "back": "Functional status, cognition, and goals of care, not chronological age alone, should guide treatment intensity."
+  },
+  {
+    "id": 55,
+    "domain": "diseases_in_the_elderly",
+    "front": "What combination of medications carries significant additive bradycardia risk?",
+    "back": "A beta-blocker combined with a non-dihydropyridine calcium channel blocker such as diltiazem or verapamil."
+  },
+  {
+    "id": 56,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why should medication reconciliation be performed proactively rather than only after an adverse event?",
+    "back": "Frailty, renal function, and comorbidities evolve gradually, and accumulating polypharmacy risk can precede a fall or hospitalization."
+  },
+  {
+    "id": 57,
+    "domain": "diseases_in_the_elderly",
+    "front": "What laboratory value should be rechecked within 1-2 weeks of starting an ACE inhibitor in an older adult?",
+    "back": "Renal function and potassium."
+  },
+  {
+    "id": 58,
+    "domain": "diseases_in_the_elderly",
+    "front": "What vaccination is specifically recommended to reduce pneumonia risk in COPD patients?",
+    "back": "Pneumococcal vaccination."
+  },
+  {
+    "id": 59,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why can a normal resting oxygen saturation be misleading in a patient with combined HFpEF and COPD?",
+    "back": "Significant desaturation may only appear during exertion, which resting measurements alone will not detect."
+  },
+  {
+    "id": 60,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the classic ECG finding that identifies atrial fibrillation on a rhythm strip?",
+    "back": "An irregularly irregular rhythm with absence of discrete P waves."
+  },
+  {
+    "id": 61,
+    "domain": "diseases_in_the_elderly",
+    "front": "What ECG pattern describes second-degree (Mobitz type I) AV block?",
+    "back": "A progressively lengthening PR interval followed by a non-conducted (dropped) beat, in a repeating pattern."
+  },
+  {
+    "id": 62,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the most important initial step before concluding CPAP therapy has failed?",
+    "back": "Review adherence data (hours of nightly use) and mask fit."
+  },
+  {
+    "id": 63,
+    "domain": "diseases_in_the_elderly",
+    "front": "What natriuretic peptide pattern helps distinguish acute cardiac decompensation from a chronically elevated HFpEF baseline?",
+    "back": "A significant rise in NT-proBNP above the patient's own known chronic baseline value."
+  },
+  {
+    "id": 64,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why should a structured medication reconciliation be performed at every care transition?",
+    "back": "It identifies discrepancies, unintentional omissions, or duplications that commonly occur between pre-admission, in-hospital, and discharge lists."
+  },
+  {
+    "id": 65,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is a key reason smoking cessation still matters in patients with established COPD?",
+    "back": "It continues to slow lung function decline and reduce exacerbation frequency, regardless of when it is started."
+  },
+  {
+    "id": 66,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the recommended approach when multiple potential causes of syncope are identified in one patient?",
+    "back": "Address the most readily modifiable and likely contributor first while continuing to evaluate other factors."
+  },
+  {
+    "id": 67,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the recognized mechanism behind apnea-associated bradycardia during obstructive sleep apnea events?",
+    "back": "Vagally mediated bradycardia triggered by the apneic event itself, typically improving with effective OSA treatment."
+  },
+  {
+    "id": 68,
+    "domain": "diseases_in_the_elderly",
+    "front": "What arterial change with aging raises left ventricular afterload and promotes diastolic dysfunction?",
+    "back": "Arterial stiffening from collagen cross-linking and elastin fragmentation."
+  },
+  {
+    "id": 69,
+    "domain": "diseases_in_the_elderly",
+    "front": "How much sinoatrial node cell loss can occur by age 75?",
+    "back": "As much as 90 percent, predisposing to sick sinus syndrome and AV block."
+  },
+  {
+    "id": 70,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the recommended anticoagulation approach for a patient with a labile INR on warfarin?",
+    "back": "Consider switching to a DOAC given the unpredictable INR control."
+  },
+  {
+    "id": 71,
+    "domain": "diseases_in_the_elderly",
+    "front": "What comorbidity cluster is most characteristic of HFpEF risk in older adults?",
+    "back": "Hypertension, obesity, atrial fibrillation, chronic kidney disease, and diabetes."
+  },
+  {
+    "id": 72,
+    "domain": "diseases_in_the_elderly",
+    "front": "What should be done in a high-pretest-probability (high Wells score) patient regardless of the D-dimer result?",
+    "back": "Proceed directly to CT pulmonary angiography regardless of the D-dimer result, since a negative D-dimer does not reliably exclude PE when pretest probability is high."
+  },
+  {
+    "id": 73,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the recognized risk of thrombolytic therapy that is elevated in older adults with PE?",
+    "back": "Higher baseline risk of intracranial hemorrhage."
+  },
+  {
+    "id": 74,
+    "domain": "diseases_in_the_elderly",
+    "front": "What examination finding on a chest radiograph helps distinguish pneumonia from a pure COPD exacerbation?",
+    "back": "A new focal infiltrate."
+  },
+  {
+    "id": 75,
+    "domain": "diseases_in_the_elderly",
+    "front": "What should guide the decision to treat an incidentally found subsegmental pulmonary embolism?",
+    "back": "Whether it represents a clinically significant finding warranting anticoagulation, based on overall patient risk factors."
+  },
+  {
+    "id": 76,
+    "domain": "diseases_in_the_elderly",
+    "front": "What A1c target is appropriate for a healthy older adult with long life expectancy and few comorbidities?",
+    "back": "Less than 7.0 to 7.5 percent, similar to the target used in younger adults."
+  },
+  {
+    "id": 77,
+    "domain": "diseases_in_the_elderly",
+    "front": "What A1c target applies to an older adult with complex or intermediate health status?",
+    "back": "Less than 8.0 percent."
+  },
+  {
+    "id": 78,
+    "domain": "diseases_in_the_elderly",
+    "front": "What A1c target applies to a very complex or poor health elderly patient, such as one in long-term care?",
+    "back": "Less than 8.5 percent, with the priority on avoiding symptomatic hyperglycemia and hypoglycemia rather than a numeric goal."
+  },
+  {
+    "id": 79,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why is hypoglycemia particularly dangerous in older adults?",
+    "back": "Blunted counterregulatory responses and reduced awareness increase risk of falls, fractures, arrhythmia, cognitive decline, and death."
+  },
+  {
+    "id": 80,
+    "domain": "diseases_in_the_elderly",
+    "front": "Which sulfonylurea carries a strong Beers Criteria warning in older adults, and why?",
+    "back": "Glyburide, because its active metabolite accumulates with declining renal function and causes prolonged hypoglycemia."
+  },
+  {
+    "id": 81,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why is glipizide preferred over glyburide in elderly patients?",
+    "back": "It has a shorter half-life and hepatic rather than renal-dependent metabolite clearance."
+  },
+  {
+    "id": 82,
+    "domain": "diseases_in_the_elderly",
+    "front": "At what eGFR should metformin dose be reduced, and at what eGFR should it be discontinued?",
+    "back": "Reduce below 45 mL/min/1.73m2; discontinue below 30 mL/min/1.73m2."
+  },
+  {
+    "id": 83,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why should sliding scale insulin not be used as monotherapy in frail elderly patients?",
+    "back": "It produces erratic glycemic swings without background basal coverage; scheduled basal insulin with correction dosing is preferred."
+  },
+  {
+    "id": 84,
+    "domain": "diseases_in_the_elderly",
+    "front": "What are the key safety concerns with SGLT2 inhibitors in frail elderly patients?",
+    "back": "Volume depletion, orthostatic hypotension, falls, and genitourinary infections."
+  },
+  {
+    "id": 85,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the general benefit horizon for microvascular benefit from tight glycemic control?",
+    "back": "About eight to ten years, which should be weighed against a patient's life expectancy."
+  },
+  {
+    "id": 86,
+    "domain": "diseases_in_the_elderly",
+    "front": "What TSH threshold is generally required before treating subclinical hypothyroidism in most adults over 65?",
+    "back": "A TSH persistently above 10 mIU/L."
+  },
+  {
+    "id": 87,
+    "domain": "diseases_in_the_elderly",
+    "front": "What did the TRUST trial demonstrate about treating subclinical hypothyroidism with TSH below 10 mIU/L in older adults?",
+    "back": "No symptomatic benefit from levothyroxine treatment."
+  },
+  {
+    "id": 88,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the typical starting dose and titration interval for levothyroxine in an elderly patient?",
+    "back": "25 to 50 micrograms daily, with TSH rechecked every six to eight weeks before further titration."
+  },
+  {
+    "id": 89,
+    "domain": "diseases_in_the_elderly",
+    "front": "What are the classic clinical features of apathetic hyperthyroidism in the elderly?",
+    "back": "Lethargy, depression, unintentional weight loss, and new atrial fibrillation, often without tremor or heat intolerance."
+  },
+  {
+    "id": 90,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why might apathetic hyperthyroidism be mistaken for malignancy or depression?",
+    "back": "It lacks the classic hyperkinetic features of thyrotoxicosis, presenting instead with weight loss and lethargy."
+  },
+  {
+    "id": 91,
+    "domain": "diseases_in_the_elderly",
+    "front": "What thyroid abnormality can amiodarone cause, and in which direction most commonly?",
+    "back": "Amiodarone can cause either hypothyroidism or thyrotoxicosis; hypothyroidism is more common, especially with underlying autoimmune thyroid disease."
+  },
+  {
+    "id": 92,
+    "domain": "diseases_in_the_elderly",
+    "front": "What T-score defines osteoporosis on DXA?",
+    "back": "A T-score of negative 2.5 or lower at the femoral neck, total hip, or lumbar spine."
+  },
+  {
+    "id": 93,
+    "domain": "diseases_in_the_elderly",
+    "front": "What T-score range defines osteopenia?",
+    "back": "Negative 1.0 to negative 2.5."
+  },
+  {
+    "id": 94,
+    "domain": "diseases_in_the_elderly",
+    "front": "What clinical inputs does the FRAX tool use to estimate ten-year fracture probability?",
+    "back": "Age, sex, BMI, prior fracture, parental hip fracture, smoking, glucocorticoid use, rheumatoid arthritis, secondary osteoporosis, and alcohol intake, with optional bone density."
+  },
+  {
+    "id": 95,
+    "domain": "diseases_in_the_elderly",
+    "front": "At what FRAX thresholds is osteoporosis treatment generally recommended?",
+    "back": "Ten-year hip fracture risk above 3 percent or major osteoporotic fracture risk above 20 percent."
+  },
+  {
+    "id": 96,
+    "domain": "diseases_in_the_elderly",
+    "front": "Besides FRAX thresholds, what two findings independently indicate osteoporosis treatment regardless of T-score?",
+    "back": "A prior hip or vertebral fragility fracture, or a T-score of negative 2.5 or lower."
+  },
+  {
+    "id": 97,
+    "domain": "diseases_in_the_elderly",
+    "front": "What renal function threshold is generally required for safe use of oral bisphosphonates?",
+    "back": "An eGFR above 30 to 35 mL/min/1.73m2."
+  },
+  {
+    "id": 98,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the proper administration technique for oral bisphosphonates?",
+    "back": "Take on an empty stomach with a full glass of water and remain upright for at least 30 minutes."
+  },
+  {
+    "id": 99,
+    "domain": "diseases_in_the_elderly",
+    "front": "What are the two rare but serious complications of prolonged bisphosphonate use, generally after five or more years?",
+    "back": "Atypical femoral fracture and osteonecrosis of the jaw."
+  },
+  {
+    "id": 100,
+    "domain": "diseases_in_the_elderly",
+    "front": "What warning sign on plain film suggests an impending atypical femoral fracture?",
+    "back": "A transverse lucency in the lateral cortex of the femoral shaft with prodromal thigh pain."
+  },
+  {
+    "id": 101,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why is denosumab useful for patients with renal impairment?",
+    "back": "It is not renally cleared, unlike bisphosphonates, making it an option when renal function precludes their use."
+  },
+  {
+    "id": 102,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the most important risk of stopping denosumab without a transition agent?",
+    "back": "Rebound vertebral fracture risk from a surge in bone turnover."
+  },
+  {
+    "id": 103,
+    "domain": "diseases_in_the_elderly",
+    "front": "What dosing interval must be strictly maintained with denosumab therapy?",
+    "back": "A fixed six-month dosing interval."
+  },
+  {
+    "id": 104,
+    "domain": "diseases_in_the_elderly",
+    "front": "In which patients is anabolic osteoporosis therapy such as teriparatide generally preferred as the initial agent?",
+    "back": "Patients at very high fracture risk, such as those with a recent fragility fracture or very low T-score."
+  },
+  {
+    "id": 105,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why should anabolic osteoporosis agents generally be given before, not after, antiresorptive therapy?",
+    "back": "An antiresorptive given first can blunt the subsequent anabolic bone-forming response."
+  },
+  {
+    "id": 106,
+    "domain": "diseases_in_the_elderly",
+    "front": "What boxed warning does romosozumab carry, and who should avoid it?",
+    "back": "A cardiovascular event warning; it should be avoided after a recent myocardial infarction or stroke."
+  },
+  {
+    "id": 107,
+    "domain": "diseases_in_the_elderly",
+    "front": "Is there still a mandated lifetime treatment duration limit for teriparatide?",
+    "back": "No. The FDA removed the boxed warning and the associated 2-year duration limit from the teriparatide label in 2020 after long-term human surveillance data showed no increased osteosarcoma risk, so duration is now individualized."
+  },
+  {
+    "id": 108,
+    "domain": "diseases_in_the_elderly",
+    "front": "What serum 25-hydroxyvitamin D level is generally targeted for bone health?",
+    "back": "At least 30 ng/mL."
+  },
+  {
+    "id": 109,
+    "domain": "diseases_in_the_elderly",
+    "front": "What are typical daily targets for vitamin D and calcium supplementation in osteoporosis management?",
+    "back": "800 to 1000 international units of vitamin D and 1000 to 1200 mg of calcium from diet plus supplementation."
+  },
+  {
+    "id": 110,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why should excessive calcium supplementation be avoided?",
+    "back": "It has been associated with cardiovascular risk signals in some studies."
+  },
+  {
+    "id": 111,
+    "domain": "diseases_in_the_elderly",
+    "front": "Approximately how much does GFR decline per year on average after age 40 with normal aging?",
+    "back": "About 1 mL/min/1.73m2 per year."
+  },
+  {
+    "id": 112,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why is serum creatinine an unreliable marker of renal function in a sarcopenic elderly patient?",
+    "back": "Reduced muscle mass lowers creatinine production, masking true renal impairment."
+  },
+  {
+    "id": 113,
+    "domain": "diseases_in_the_elderly",
+    "front": "What test can supplement creatinine for a more accurate eGFR estimate in low-muscle-mass patients?",
+    "back": "Cystatin C."
+  },
+  {
+    "id": 114,
+    "domain": "diseases_in_the_elderly",
+    "front": "What three criteria trigger apixaban dose reduction to 2.5 mg twice daily when at least two are met?",
+    "back": "Age 80 or older, body weight 60 kg or less, or serum creatinine 1.5 mg/dL or greater."
+  },
+  {
+    "id": 115,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why does dabigatran require caution in declining renal function?",
+    "back": "It is predominantly renally cleared and accumulates with reduced clearance, raising bleeding risk."
+  },
+  {
+    "id": 116,
+    "domain": "diseases_in_the_elderly",
+    "front": "What class of pain medication requires significant dose reduction in renal impairment and can cause sedation and confusion if not adjusted?",
+    "back": "Gabapentin and pregabalin."
+  },
+  {
+    "id": 117,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the target digoxin level range in older adults?",
+    "back": "0.5 to 0.9 ng/mL, lower than the target in younger patients."
+  },
+  {
+    "id": 118,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why are NSAIDs relatively contraindicated in chronic kidney disease?",
+    "back": "They cause afferent arteriolar vasoconstriction, risking acute kidney injury."
+  },
+  {
+    "id": 119,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the mechanism behind the ACE inhibitor plus diuretic plus NSAID 'triple whammy' combination?",
+    "back": "Compounded hemodynamic stress on renal perfusion, substantially raising acute kidney injury risk."
+  },
+  {
+    "id": 120,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the most common electrolyte disorder in hospitalized and community-dwelling older adults?",
+    "back": "Hyponatremia."
+  },
+  {
+    "id": 121,
+    "domain": "diseases_in_the_elderly",
+    "front": "What laboratory pattern defines SIADH?",
+    "back": "Euvolemia, low serum osmolality, inappropriately concentrated urine, and urine sodium generally above 40 mEq/L without diuretic use."
+  },
+  {
+    "id": 122,
+    "domain": "diseases_in_the_elderly",
+    "front": "Name three medication classes commonly implicated in elderly SIADH.",
+    "back": "SSRIs, carbamazepine, and thiazide diuretics."
+  },
+  {
+    "id": 123,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is unusual about the timing of thiazide-induced hyponatremia?",
+    "back": "It can occur even years after a previously stable, tolerated dose."
+  },
+  {
+    "id": 124,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the maximum safe rate of sodium correction for chronic hyponatremia over 24 hours?",
+    "back": "No more than 8 mEq/L in 24 hours."
+  },
+  {
+    "id": 125,
+    "domain": "diseases_in_the_elderly",
+    "front": "What complication can result from overly rapid correction of chronic hyponatremia?",
+    "back": "Osmotic demyelination syndrome."
+  },
+  {
+    "id": 126,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the first-line management for chronic SIADH-related hyponatremia?",
+    "back": "Fluid restriction."
+  },
+  {
+    "id": 127,
+    "domain": "diseases_in_the_elderly",
+    "front": "What are second-line options for SIADH-related hyponatremia when fluid restriction fails?",
+    "back": "Salt tablets, urea, or a vasopressin receptor antagonist."
+  },
+  {
+    "id": 128,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is 'tea and toast syndrome'?",
+    "back": "Hyponatremia worsened by very low dietary solute intake, which limits the kidney's capacity to excrete free water."
+  },
+  {
+    "id": 129,
+    "domain": "diseases_in_the_elderly",
+    "front": "How does hypovolemic hyponatremia's urine sodium differ from that of SIADH?",
+    "back": "Hypovolemic hyponatremia typically shows a low urine sodium below 20 mEq/L, reflecting appropriate renal sodium retention, unlike SIADH."
+  },
+  {
+    "id": 130,
+    "domain": "diseases_in_the_elderly",
+    "front": "What electrolyte finding distinguishes primary adrenal insufficiency from SIADH as a cause of hyponatremia?",
+    "back": "Adrenal insufficiency classically causes hyperkalemia alongside hyponatremia; SIADH typically does not affect potassium."
+  },
+  {
+    "id": 131,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the preferred acute gout treatment in an elderly patient with chronic kidney disease and heart failure?",
+    "back": "Low-dose colchicine or corticosteroids, avoiding NSAIDs."
+  },
+  {
+    "id": 132,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the target serum urate level for urate-lowering therapy?",
+    "back": "Below 6 mg/dL."
+  },
+  {
+    "id": 133,
+    "domain": "diseases_in_the_elderly",
+    "front": "How should allopurinol be started in a patient with reduced renal function?",
+    "back": "At a low dose, generally 100 mg daily or lower, titrated slowly."
+  },
+  {
+    "id": 134,
+    "domain": "diseases_in_the_elderly",
+    "front": "What serious complication can occur with allopurinol, especially at higher starting doses in renal impairment?",
+    "back": "Allopurinol hypersensitivity syndrome, presenting with fever, rash, and eosinophilia."
+  },
+  {
+    "id": 135,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why does allopurinol interact dangerously with azathioprine?",
+    "back": "Allopurinol inhibits xanthine oxidase, which metabolizes azathioprine, risking severe myelosuppression."
+  },
+  {
+    "id": 136,
+    "domain": "diseases_in_the_elderly",
+    "front": "Should established urate-lowering therapy be stopped during an acute gout flare?",
+    "back": "No, it should generally be continued through the flare rather than discontinued."
+  },
+  {
+    "id": 137,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why do older women on chronic diuretics more often develop atypical gout presentations?",
+    "back": "Long-term diuretic use predisposes to atypical joint involvement, such as finger joints, and tophi formation."
+  },
+  {
+    "id": 138,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the stepwise approach to osteoarthritis management before considering oral NSAIDs?",
+    "back": "Topical NSAIDs, acetaminophen, exercise, and weight loss."
+  },
+  {
+    "id": 139,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why are opioids generally avoided as first or second line therapy for osteoarthritis in older adults?",
+    "back": "They carry disproportionate risk of falls, delirium, constipation, and dependence relative to modest analgesic benefit."
+  },
+  {
+    "id": 140,
+    "domain": "diseases_in_the_elderly",
+    "front": "What option is reasonable for refractory single-joint osteoarthritis pain before escalating to systemic therapy?",
+    "back": "Intra-articular corticosteroid injection."
+  },
+  {
+    "id": 141,
+    "domain": "diseases_in_the_elderly",
+    "front": "Which medication classes discussed in this chapter appear explicitly on the Beers Criteria?",
+    "back": "Glyburide, long-acting sulfonylureas generally, and chronically used NSAIDs."
+  },
+  {
+    "id": 142,
+    "domain": "diseases_in_the_elderly",
+    "front": "What does subclinical hyperthyroidism, TSH suppressed with normal free thyroxine, increase the risk of?",
+    "back": "Atrial fibrillation and accelerated bone loss."
+  },
+  {
+    "id": 143,
+    "domain": "diseases_in_the_elderly",
+    "front": "What can reduce levothyroxine absorption when taken concurrently, requiring separation of dosing times?",
+    "back": "Calcium carbonate and proton pump inhibitors."
+  },
+  {
+    "id": 144,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the general risk of continuing a bisphosphonate beyond five years without reassessment?",
+    "back": "Increased cumulative risk of atypical femoral fracture and osteonecrosis of the jaw, prompting consideration of a drug holiday."
+  },
+  {
+    "id": 145,
+    "domain": "diseases_in_the_elderly",
+    "front": "What laboratory findings should be corrected before starting a potent bisphosphonate to avoid severe post-treatment hypocalcemia?",
+    "back": "Underlying vitamin D deficiency and hypocalcemia."
+  },
+  {
+    "id": 146,
+    "domain": "diseases_in_the_elderly",
+    "front": "How does FRAX's lack of a direct chronic kidney disease input affect its risk estimate?",
+    "back": "FRAX may underestimate true fracture risk in patients with chronic kidney disease, which independently raises fracture risk."
+  },
+  {
+    "id": 147,
+    "domain": "diseases_in_the_elderly",
+    "front": "What does hypercalcemia with a suppressed parathyroid hormone level suggest, as opposed to an elevated PTH?",
+    "back": "A PTH-independent cause such as malignancy, rather than primary hyperparathyroidism."
+  },
+  {
+    "id": 148,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why is glycemic monitoring frequency often reduced in patients with advanced dementia and relaxed targets?",
+    "back": "Frequent monitoring adds burden without meaningfully changing management aligned to comfort-focused goals of care."
+  },
+  {
+    "id": 149,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the guiding principle for endocrine, renal, and musculoskeletal disease management across geriatric medicine?",
+    "back": "Individualized management based on frailty, life expectancy, renal function, and goals of care rather than rigid disease-specific numeric targets."
+  },
+  {
+    "id": 150,
+    "domain": "diseases_in_the_elderly",
+    "front": "What sick day counseling is important for patients on SGLT2 inhibitors?",
+    "back": "Temporarily hold the medication during acute illness, dehydration, or reduced oral intake to reduce the risk of euglycemic diabetic ketoacidosis."
+  },
+  {
+    "id": 151,
+    "domain": "diseases_in_the_elderly",
+    "front": "Does age alone exclude an older adult from IV thrombolysis for stroke?",
+    "back": "No. Age alone is not an exclusion criterion; eligible patients over 80 still derive relative benefit similar to younger patients."
+  },
+  {
+    "id": 152,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the standard IV alteplase eligibility window from last known well?",
+    "back": "Within 4.5 hours of last known well time, based on accumulated trial evidence."
+  },
+  {
+    "id": 153,
+    "domain": "diseases_in_the_elderly",
+    "front": "How many falls per year would it take for fall risk to outweigh anticoagulation's stroke benefit?",
+    "back": "Approximately 295 falls in one year, meaning fall risk is usually overestimated as a reason to withhold anticoagulation."
+  },
+  {
+    "id": 154,
+    "domain": "diseases_in_the_elderly",
+    "front": "What does the HAS-BLED score guide when elevated?",
+    "back": "It should prompt correction of modifiable bleeding risk factors, not automatic discontinuation of anticoagulation."
+  },
+  {
+    "id": 155,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why are DOACs generally preferred over warfarin in eligible older adults with atrial fibrillation?",
+    "back": "They carry a lower risk of intracranial hemorrhage, though renal dosing adjustments are still required."
+  },
+  {
+    "id": 156,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the typical anticoagulation initiation delay after a large ischemic stroke?",
+    "back": "Approximately 12 to 14 days, confirmed with repeat imaging excluding hemorrhagic transformation first."
+  },
+  {
+    "id": 157,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the typical anticoagulation initiation delay after a TIA?",
+    "back": "Approximately 1 day, since bleeding risk from a TIA-sized event is minimal."
+  },
+  {
+    "id": 158,
+    "domain": "diseases_in_the_elderly",
+    "front": "Which score stratifies short-term stroke risk after a TIA?",
+    "back": "The ABCD2 score, incorporating age, blood pressure, clinical features, duration, and diabetes."
+  },
+  {
+    "id": 159,
+    "domain": "diseases_in_the_elderly",
+    "front": "Within what window does carotid endarterectomy provide the greatest benefit after a symptomatic event?",
+    "back": "Within 2 weeks of the qualifying symptomatic event, for 70 to 99 percent stenosis."
+  },
+  {
+    "id": 160,
+    "domain": "diseases_in_the_elderly",
+    "front": "What atypical stroke presentation is common in frail older adults?",
+    "back": "Acute confusion or unexplained functional decline rather than classic focal hemiparesis."
+  },
+  {
+    "id": 161,
+    "domain": "diseases_in_the_elderly",
+    "front": "Does age alone determine eligibility for extended-window mechanical thrombectomy?",
+    "back": "No; eligibility is guided by favorable perfusion imaging showing salvageable tissue, not chronologic age."
+  },
+  {
+    "id": 162,
+    "domain": "diseases_in_the_elderly",
+    "front": "What CHA2DS2-VASc contribution does age over 75 provide?",
+    "back": "Age contributes independently to the score, so nearly all patients over 75 with atrial fibrillation score at least 2 from age alone."
+  },
+  {
+    "id": 163,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the typical anticoagulation initiation delay after a small non-disabling infarct?",
+    "back": "Approximately 3 days, after confirming no hemorrhagic transformation on follow-up imaging."
+  },
+  {
+    "id": 164,
+    "domain": "diseases_in_the_elderly",
+    "front": "What distinguishes drug-induced parkinsonism from idiopathic Parkinson disease?",
+    "back": "Drug-induced parkinsonism tends to be symmetric and improves after stopping the offending dopamine-blocking agent; idiopathic disease is typically asymmetric."
+  },
+  {
+    "id": 165,
+    "domain": "diseases_in_the_elderly",
+    "front": "Which medications commonly cause drug-induced parkinsonism?",
+    "back": "Dopamine-blocking antipsychotics and antiemetics such as metoclopramide and prochlorperazine."
+  },
+  {
+    "id": 166,
+    "domain": "diseases_in_the_elderly",
+    "front": "What eye finding characterizes progressive supranuclear palsy?",
+    "back": "Impaired downgaze, along with early postural instability and falls within the first year."
+  },
+  {
+    "id": 167,
+    "domain": "diseases_in_the_elderly",
+    "front": "What triad characterizes multiple system atrophy?",
+    "back": "Parkinsonism, cerebellar signs, and prominent early autonomic dysfunction including orthostatic hypotension and urinary retention."
+  },
+  {
+    "id": 168,
+    "domain": "diseases_in_the_elderly",
+    "front": "How does dementia with Lewy bodies differ in timing from Parkinson disease dementia?",
+    "back": "In Lewy body disease, cognitive symptoms arise within about a year of motor symptoms; in Parkinson disease dementia, cognition declines more than a year after motor onset."
+  },
+  {
+    "id": 169,
+    "domain": "diseases_in_the_elderly",
+    "front": "Should levodopa be delayed in older-onset Parkinson disease to avoid future dyskinesia?",
+    "back": "No; older-onset patients have a shorter disease trajectory, so motor fluctuations and dyskinesias are less problematic even with earlier initiation."
+  },
+  {
+    "id": 170,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why are dopamine agonists generally avoided as first-line therapy in older Parkinson patients?",
+    "back": "They carry higher risk of confusion, hallucinations, and orthostatic hypotension in older patients."
+  },
+  {
+    "id": 171,
+    "domain": "diseases_in_the_elderly",
+    "front": "What nonmotor symptom often precedes the motor diagnosis of Parkinson disease by years?",
+    "back": "Constipation, reflecting early enteric nervous system involvement."
+  },
+  {
+    "id": 172,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the initial management approach for Parkinson-related orthostatic hypotension?",
+    "back": "Non-pharmacologic measures: increased fluid and salt intake, compression garments, and slow positional changes."
+  },
+  {
+    "id": 173,
+    "domain": "diseases_in_the_elderly",
+    "front": "What pharmacologic agents are used for Parkinson orthostatic hypotension refractory to non-pharmacologic measures?",
+    "back": "Midodrine or droxidopa."
+  },
+  {
+    "id": 174,
+    "domain": "diseases_in_the_elderly",
+    "front": "What impulse control disorders are associated with dopamine agonist therapy?",
+    "back": "Compulsive gambling, shopping, or hypersexuality, particularly in younger patients, and in those with a personal or family history of impulsive or addictive behaviors."
+  },
+  {
+    "id": 175,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why is phenytoin dosing unpredictable in frail older patients?",
+    "back": "Its nonlinear kinetics combined with variable albumin and renal function make free drug levels unpredictable."
+  },
+  {
+    "id": 176,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the most common identifiable cause of new-onset seizures in adults over 65?",
+    "back": "Stroke, whether acute or as a remote sequela of prior infarct or hemorrhage."
+  },
+  {
+    "id": 177,
+    "domain": "diseases_in_the_elderly",
+    "front": "What should be suspected in an older adult with persistent altered mental status after a witnessed seizure?",
+    "back": "Nonconvulsive status epilepticus, which requires EEG for diagnosis."
+  },
+  {
+    "id": 178,
+    "domain": "diseases_in_the_elderly",
+    "front": "Which antiepileptic is often first-line in older adults due to minimal hepatic metabolism and few interactions?",
+    "back": "Levetiracetam, though clinicians should ask about irritability or mood changes."
+  },
+  {
+    "id": 179,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why are phenytoin and carbamazepine generally avoided as first-line antiepileptics in older adults?",
+    "back": "They interact extensively with anticoagulants and cardiovascular medications commonly used in this population."
+  },
+  {
+    "id": 180,
+    "domain": "diseases_in_the_elderly",
+    "front": "What seizure type is more common than classic tonic-clonic convulsions in older adults?",
+    "back": "Focal seizures with impaired awareness, often with prolonged postictal confusion."
+  },
+  {
+    "id": 181,
+    "domain": "diseases_in_the_elderly",
+    "front": "Does Alzheimer disease independently increase seizure risk?",
+    "back": "Yes, compared with age-matched controls without dementia."
+  },
+  {
+    "id": 182,
+    "domain": "diseases_in_the_elderly",
+    "front": "What titration caution applies to lamotrigine regardless of patient age?",
+    "back": "Slow titration is required to reduce the risk of serious rash, including Stevens-Johnson syndrome."
+  },
+  {
+    "id": 183,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why might treatment be started after a single unprovoked seizure in an older adult?",
+    "back": "Recurrence risk after a first unprovoked seizure is often high enough in older adults to justify treatment even after one event."
+  },
+  {
+    "id": 184,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is a key drug-interaction concern with carbamazepine in an anticoagulated older patient?",
+    "back": "Its enzyme-inducing effect can significantly alter warfarin metabolism and anticoagulation control."
+  },
+  {
+    "id": 185,
+    "domain": "diseases_in_the_elderly",
+    "front": "What metabolic derangement is a recognized reversible cause of new-onset seizures in older adults?",
+    "back": "Severe hyponatremia, which should be corrected alongside acute seizure management."
+  },
+  {
+    "id": 186,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the most common identifiable cause of distal symmetric peripheral neuropathy in older adults?",
+    "back": "Diabetes mellitus, though a meaningful proportion of cases remain idiopathic even after workup."
+  },
+  {
+    "id": 187,
+    "domain": "diseases_in_the_elderly",
+    "front": "What basic laboratory panel should be obtained for new peripheral neuropathy in an older adult?",
+    "back": "Fasting glucose or HbA1c, vitamin B12, complete blood count, comprehensive metabolic panel, and thyroid function."
+  },
+  {
+    "id": 188,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why should methylmalonic acid be checked with a low-normal B12 level?",
+    "back": "It is a more sensitive marker of tissue-level B12 deficiency than serum B12 alone."
+  },
+  {
+    "id": 189,
+    "domain": "diseases_in_the_elderly",
+    "front": "What test should be considered for atypical or rapidly progressive neuropathy?",
+    "back": "Serum protein electrophoresis with immunofixation to evaluate for monoclonal gammopathy."
+  },
+  {
+    "id": 190,
+    "domain": "diseases_in_the_elderly",
+    "front": "What prescribing caution applies to gabapentin and pregabalin in older adults?",
+    "back": "Dose adjustment for renal function and slow titration to avoid sedation, gait instability, and falls."
+  },
+  {
+    "id": 191,
+    "domain": "diseases_in_the_elderly",
+    "front": "What safety concern applies to duloxetine in a patient with orthostatic hypotension?",
+    "back": "Duloxetine can worsen orthostatic hypotension and should be used cautiously in renal or hepatic impairment."
+  },
+  {
+    "id": 192,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why does peripheral neuropathy independently raise fall risk in older adults?",
+    "back": "Impaired proprioception and reduced protective sensation increase fall risk regardless of the pharmacologic regimen chosen."
+  },
+  {
+    "id": 193,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why is vitamin B12 deficiency particularly relevant in older adults?",
+    "back": "High prevalence of atrophic gastritis and other malabsorption causes increases risk of clinically significant deficiency."
+  },
+  {
+    "id": 194,
+    "domain": "diseases_in_the_elderly",
+    "front": "What clinical change should prompt reevaluation of a stable neuropathy for an atypical cause?",
+    "back": "A shift to rapidly progressive or asymmetric neuropathy from a prior stable distal symmetric pattern."
+  },
+  {
+    "id": 195,
+    "domain": "diseases_in_the_elderly",
+    "front": "Are topical agents like lidocaine patches subject to the same renal dosing concerns as gabapentin?",
+    "back": "No; topical agents have minimal systemic absorption and generally do not require the same renal dose adjustments."
+  },
+  {
+    "id": 196,
+    "domain": "diseases_in_the_elderly",
+    "front": "What temperature rise defines significant fever in a frail older adult?",
+    "back": "A rise of 1.1 degrees Celsius above baseline, or a single reading above 37.8 degrees Celsius."
+  },
+  {
+    "id": 197,
+    "domain": "diseases_in_the_elderly",
+    "front": "According to IDSA guidance, when should asymptomatic bacteriuria be treated?",
+    "back": "Only before an invasive urologic procedure likely to cause mucosal bleeding."
+  },
+  {
+    "id": 198,
+    "domain": "diseases_in_the_elderly",
+    "front": "Should a positive urine culture in a confused older adult without urinary symptoms be treated as a UTI?",
+    "back": "No; an alternative cause of confusion should be actively sought before attributing it to bacteriuria."
+  },
+  {
+    "id": 199,
+    "domain": "diseases_in_the_elderly",
+    "front": "What tool guides pneumonia site-of-care decisions and includes age as an independent factor?",
+    "back": "The CURB-65 score, in which age 65 or older independently contributes a point."
+  },
+  {
+    "id": 200,
+    "domain": "diseases_in_the_elderly",
+    "front": "What are the preferred first-line agents for Clostridioides difficile infection over metronidazole?",
+    "back": "Vancomycin or fidaxomicin, with fidaxomicin associated with lower recurrence rates."
+  },
+  {
+    "id": 201,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why might sepsis be missed in an older adult on a beta-blocker?",
+    "back": "The expected tachycardic response to sepsis may be blunted, so a normal heart rate should not exclude sepsis."
+  },
+  {
+    "id": 202,
+    "domain": "diseases_in_the_elderly",
+    "front": "What are the three components of the quick SOFA score?",
+    "back": "Altered mentation, respiratory rate of 22 or higher, and systolic blood pressure of 100 or lower."
+  },
+  {
+    "id": 203,
+    "domain": "diseases_in_the_elderly",
+    "front": "Within what window should antiviral therapy for herpes zoster be started?",
+    "back": "Within 72 hours of rash onset, to reduce acute pain duration and postherpetic neuralgia incidence."
+  },
+  {
+    "id": 204,
+    "domain": "diseases_in_the_elderly",
+    "front": "Which zoster vaccine is preferred in adults 50 and older, including immunocompromised patients?",
+    "back": "The recombinant zoster vaccine, preferred over the older live attenuated formulation."
+  },
+  {
+    "id": 205,
+    "domain": "diseases_in_the_elderly",
+    "front": "How does infective endocarditis often present in older adults?",
+    "back": "Insidiously, with low-grade fever, malaise, weight loss, and a new or changing heart murmur."
+  },
+  {
+    "id": 206,
+    "domain": "diseases_in_the_elderly",
+    "front": "What predisposing factors for endocarditis are common in older adults?",
+    "back": "Degenerative valve disease and prior cardiac procedures."
+  },
+  {
+    "id": 207,
+    "domain": "diseases_in_the_elderly",
+    "front": "What population has a particularly high prevalence of asymptomatic bacteriuria?",
+    "back": "Older women and residents of long-term care facilities."
+  },
+  {
+    "id": 208,
+    "domain": "diseases_in_the_elderly",
+    "front": "What atypical infection presentation should prompt an infectious workup in older adults?",
+    "back": "New delirium, functional decline, anorexia, or falls, even without fever or localizing symptoms."
+  },
+  {
+    "id": 209,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is a common driver of inappropriate antibiotic use in geriatric practice?",
+    "back": "Overdiagnosis and overtreatment of presumed UTI based on asymptomatic bacteriuria."
+  },
+  {
+    "id": 210,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is postherpetic neuralgia?",
+    "back": "Persistent pain in the affected dermatome after a herpes zoster rash resolves; it is more common and longer-lasting in older adults."
+  },
+  {
+    "id": 211,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why are older adults more likely to develop severe or fulminant C. difficile infection?",
+    "back": "Age-related physiologic changes plus higher antibiotic exposure and hospitalization rates increase severity risk."
+  },
+  {
+    "id": 212,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is a recognized risk factor for C. difficile infection besides antibiotics and hospitalization?",
+    "back": "Proton pump inhibitor use."
+  },
+  {
+    "id": 213,
+    "domain": "diseases_in_the_elderly",
+    "front": "What imaging should be obtained when bacteremia with a typical endocarditis organism is found?",
+    "back": "Echocardiography, transthoracic or transesophageal, to evaluate for valvular vegetation."
+  },
+  {
+    "id": 214,
+    "domain": "diseases_in_the_elderly",
+    "front": "What genitourinary symptoms support treating a true UTI rather than asymptomatic bacteriuria?",
+    "back": "New dysuria, urgency, frequency, or suprapubic pain."
+  },
+  {
+    "id": 215,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why might pneumonia present without fever in a frail older adult?",
+    "back": "Attenuated thermoregulation and febrile response can mask fever even with true, serious infection."
+  },
+  {
+    "id": 216,
+    "domain": "diseases_in_the_elderly",
+    "front": "At what age does the USPSTF recommend against colorectal cancer screening entirely?",
+    "back": "Age 85; screening between 76 and 85 is an individualized decision."
+  },
+  {
+    "id": 217,
+    "domain": "diseases_in_the_elderly",
+    "front": "Through what age is mammography breast cancer screening recommended by the USPSTF?",
+    "back": "Through age 74, with insufficient evidence to assess benefit beyond that age."
+  },
+  {
+    "id": 218,
+    "domain": "diseases_in_the_elderly",
+    "front": "When can cervical cancer screening be discontinued?",
+    "back": "At age 65, in women with adequate prior negative screening and no history of high-grade lesions."
+  },
+  {
+    "id": 219,
+    "domain": "diseases_in_the_elderly",
+    "front": "What generally limits PSA screening recommendations past a certain age?",
+    "back": "The long lead time between prostate cancer detection and mortality benefit relative to competing causes of death; generally not recommended past age 70."
+  },
+  {
+    "id": 220,
+    "domain": "diseases_in_the_elderly",
+    "front": "What is the purpose of a life expectancy tool such as ePrognosis in cancer screening decisions?",
+    "back": "To estimate whether a patient is likely to live long enough to benefit from early cancer detection."
+  },
+  {
+    "id": 221,
+    "domain": "diseases_in_the_elderly",
+    "front": "Why do chronologic age and ECOG performance status alone poorly predict chemotherapy toxicity?",
+    "back": "They fail to capture function, comorbidity, cognition, nutrition, polypharmacy, and social support that geriatric assessment tools incorporate."
+  },
+  {
+    "id": 222,
+    "domain": "diseases_in_the_elderly",
+    "front": "What outcome has geriatric assessment-guided oncology care been shown to reduce?",
+    "back": "Grade 3 or higher chemotherapy toxicity, compared with usual care."
+  },
+  {
+    "id": 223,
+    "domain": "diseases_in_the_elderly",
+    "front": "What malignancy should always be considered with new iron deficiency anemia in an older adult?",
+    "back": "Colorectal cancer; colonoscopy is warranted regardless of gastrointestinal symptoms."
+  },
+  {
+    "id": 224,
+    "domain": "diseases_in_the_elderly",
+    "front": "What symptom triad is classic for pancreatic cancer in older adults?",
+    "back": "Painless jaundice, new-onset diabetes, or unexplained weight loss."
+  },
+  {
+    "id": 225,
+    "domain": "diseases_in_the_elderly",
+    "front": "What has early integration of palliative care alongside cancer treatment been shown to improve?",
+    "back": "Quality of life, and in some studies survival, without hastening death."
+  },
+  {
+    "id": 226,
+    "domain": "geriatric_syndromes",
+    "front": "What proportion of community-dwelling older adults fall each year?",
+    "back": "Approximately one in four (about 25 percent) falls at least once per year."
+  },
+  {
+    "id": 227,
+    "domain": "geriatric_syndromes",
+    "front": "What is the approximate one-year fall probability for an older adult with four or more identified fall risk factors?",
+    "back": "Approximately 78 percent, compared with under 10 percent for someone with no identified risk factors."
+  },
+  {
+    "id": 228,
+    "domain": "geriatric_syndromes",
+    "front": "According to AGS/BGS guidance, what should trigger a comprehensive multifactorial fall risk assessment?",
+    "back": "Reporting two or more falls in the past year, presenting for acute fall evaluation, or demonstrating abnormal gait or balance."
+  },
+  {
+    "id": 229,
+    "domain": "geriatric_syndromes",
+    "front": "How is the Timed Up and Go test performed?",
+    "back": "The patient rises from a chair without using the arms if possible, walks three meters, turns, walks back, and sits down; it is timed."
+  },
+  {
+    "id": 230,
+    "domain": "geriatric_syndromes",
+    "front": "What Timed Up and Go time is generally considered abnormal and predictive of increased fall risk?",
+    "back": "12 seconds or longer."
+  },
+  {
+    "id": 231,
+    "domain": "geriatric_syndromes",
+    "front": "What do the three letters of the CDC STEADI initiative stand for?",
+    "back": "Screen for fall risk, Assess modifiable risk factors, and Intervene using effective interventions."
+  },
+  {
+    "id": 232,
+    "domain": "geriatric_syndromes",
+    "front": "Name the three core STEADI screening questions.",
+    "back": "Have you fallen in the past year, do you feel unsteady when standing or walking, and do you worry about falling."
+  },
+  {
+    "id": 233,
+    "domain": "geriatric_syndromes",
+    "front": "What is the formal definition of orthostatic hypotension?",
+    "back": "A systolic blood pressure drop of at least 20 mmHg or a diastolic drop of at least 10 mmHg within three minutes of standing."
+  },
+  {
+    "id": 234,
+    "domain": "geriatric_syndromes",
+    "front": "At what two time points should orthostatic blood pressure be measured after standing, and why?",
+    "back": "At 1 and 3 minutes, since delayed orthostatic hypotension is common in older adults and can be missed with a single early reading."
+  },
+  {
+    "id": 235,
+    "domain": "geriatric_syndromes",
+    "front": "Why does a comprehensive fall assessment include a cardiovascular exam listening for a systolic ejection murmur?",
+    "back": "A murmur radiating to the carotids raises concern for aortic stenosis, a cardiac cause of exertional syncope and falls."
+  },
+  {
+    "id": 236,
+    "domain": "geriatric_syndromes",
+    "front": "What is post-fall syndrome?",
+    "back": "Fear of falling leading to self-imposed activity restriction, deconditioning, and social isolation after a fall."
+  },
+  {
+    "id": 237,
+    "domain": "geriatric_syndromes",
+    "front": "What is the recommended management approach for a patient with significant fear of falling and reduced activity?",
+    "back": "Graded, supervised exercise and balance training combined with reassurance and gradual resumption of activity."
+  },
+  {
+    "id": 238,
+    "domain": "geriatric_syndromes",
+    "front": "Which structured exercise program has strong evidence for reducing fall rates in community-dwelling older adults?",
+    "back": "The Otago Exercise Programme, which emphasizes progressive balance and strength training."
+  },
+  {
+    "id": 239,
+    "domain": "geriatric_syndromes",
+    "front": "In whom does vitamin D supplementation most reliably reduce fall risk?",
+    "back": "Patients with baseline vitamin D deficiency; benefit is not uniform in vitamin D-replete populations."
+  },
+  {
+    "id": 240,
+    "domain": "geriatric_syndromes",
+    "front": "What is the current evidence-based role of hip protectors in fracture prevention?",
+    "back": "They have shown inconsistent efficacy and adherence in trials and are not considered a primary prevention strategy."
+  },
+  {
+    "id": 241,
+    "domain": "geriatric_syndromes",
+    "front": "List the five criteria of the Fried frailty phenotype.",
+    "back": "Unintentional weight loss, exhaustion, weakness (grip strength), slowness (gait speed), and low physical activity."
+  },
+  {
+    "id": 242,
+    "domain": "geriatric_syndromes",
+    "front": "What weight loss threshold defines the weight loss criterion in the Fried phenotype?",
+    "back": "Loss of 10 pounds or more, or 5 percent or more of body weight, in the preceding year."
+  },
+  {
+    "id": 243,
+    "domain": "geriatric_syndromes",
+    "front": "How many Fried phenotype criteria must be met to classify a patient as frail versus prefrail?",
+    "back": "Three or more criteria for frail; one or two criteria for prefrail; zero criteria for robust."
+  },
+  {
+    "id": 244,
+    "domain": "geriatric_syndromes",
+    "front": "How is the weakness criterion of the Fried phenotype measured?",
+    "back": "Grip strength on a dynamometer, with cutoffs stratified by sex and body mass index."
+  },
+  {
+    "id": 245,
+    "domain": "geriatric_syndromes",
+    "front": "How is the exhaustion criterion of the Fried phenotype assessed?",
+    "back": "By self-report on a standardized questionnaire asking if the patient felt everything was an effort or could not get going most of the past week."
+  },
+  {
+    "id": 246,
+    "domain": "geriatric_syndromes",
+    "front": "What large study was used to derive the original Fried frailty phenotype?",
+    "back": "The Cardiovascular Health Study."
+  },
+  {
+    "id": 247,
+    "domain": "geriatric_syndromes",
+    "front": "How is the cumulative deficit frailty index calculated?",
+    "back": "The number of health deficits present divided by the total number of deficits considered, yielding a score from 0 to 1."
+  },
+  {
+    "id": 248,
+    "domain": "geriatric_syndromes",
+    "front": "What frailty index score is generally considered indicative of frailty?",
+    "back": "A score above approximately 0.25."
+  },
+  {
+    "id": 249,
+    "domain": "geriatric_syndromes",
+    "front": "What is the Clinical Frailty Scale and who developed the underlying concept?",
+    "back": "A 9-point pictorial and descriptive scale from very fit to terminally ill, developed by Rockwood and colleagues, requiring no special testing."
+  },
+  {
+    "id": 250,
+    "domain": "geriatric_syndromes",
+    "front": "Why does preoperative frailty assessment matter for elective surgery?",
+    "back": "Frailty independently predicts postoperative delirium, prolonged length of stay, discharge to a facility, and mortality, regardless of chronological age."
+  },
+  {
+    "id": 251,
+    "domain": "geriatric_syndromes",
+    "front": "What is sarcopenia?",
+    "back": "The age-related loss of skeletal muscle mass, strength, and physical performance."
+  },
+  {
+    "id": 252,
+    "domain": "geriatric_syndromes",
+    "front": "What is the primary case-finding step in the EWGSOP2 sarcopenia diagnostic algorithm?",
+    "back": "Low muscle strength, most commonly measured by grip strength or the chair stand test."
+  },
+  {
+    "id": 253,
+    "domain": "geriatric_syndromes",
+    "front": "What confirms a diagnosis of sarcopenia after a positive strength screen?",
+    "back": "Documentation of low muscle quantity or quality by DEXA, bioimpedance analysis, or CT or MRI muscle cross-sectional area."
+  },
+  {
+    "id": 254,
+    "domain": "geriatric_syndromes",
+    "front": "What additional finding classifies sarcopenia as severe?",
+    "back": "Demonstration of low physical performance, such as slow gait speed, a low SPPB score, or a slow Timed Up and Go."
+  },
+  {
+    "id": 255,
+    "domain": "geriatric_syndromes",
+    "front": "What daily protein intake is generally recommended for a healthy older adult to preserve muscle mass?",
+    "back": "1.0 to 1.2 grams per kilogram of body weight per day, higher during acute or chronic illness."
+  },
+  {
+    "id": 256,
+    "domain": "geriatric_syndromes",
+    "front": "What is the intervention with the strongest evidence base for improving strength and function in sarcopenia?",
+    "back": "Resistance exercise training combined with adequate protein intake."
+  },
+  {
+    "id": 257,
+    "domain": "geriatric_syndromes",
+    "front": "What is the current recommendation regarding pharmacologic treatment of sarcopenia?",
+    "back": "Pharmacologic treatments remain investigational and are not currently recommended as first-line therapy."
+  },
+  {
+    "id": 258,
+    "domain": "geriatric_syndromes",
+    "front": "What is the classic triad of normal pressure hydrocephalus?",
+    "back": "Gait apraxia, urinary incontinence, and cognitive impairment, with gait disturbance typically the earliest feature."
+  },
+  {
+    "id": 259,
+    "domain": "geriatric_syndromes",
+    "front": "What gait pattern is characteristic of parkinsonism?",
+    "back": "A shuffling, short-stepped gait with reduced arm swing and difficulty initiating movement."
+  },
+  {
+    "id": 260,
+    "domain": "geriatric_syndromes",
+    "front": "What gait pattern suggests a cerebellar or sensory ataxic process?",
+    "back": "A wide-based, unsteady gait with variable step length."
+  },
+  {
+    "id": 261,
+    "domain": "geriatric_syndromes",
+    "front": "What is an antalgic gait and what does it typically suggest?",
+    "back": "A gait with shortened stance phase on the painful limb, suggesting a musculoskeletal source such as hip or knee arthritis."
+  },
+  {
+    "id": 262,
+    "domain": "geriatric_syndromes",
+    "front": "What gait pattern is expected after a hemispheric stroke with residual leg weakness?",
+    "back": "A hemiplegic or circumductive gait with the affected leg swinging outward."
+  },
+  {
+    "id": 263,
+    "domain": "geriatric_syndromes",
+    "front": "Why is dual-task gait assessment (walking while performing a cognitive task) clinically useful?",
+    "back": "Impaired dual-task gait performance independently predicts both future falls and incident cognitive decline."
+  },
+  {
+    "id": 264,
+    "domain": "geriatric_syndromes",
+    "front": "Why is gait speed sometimes called the sixth vital sign in geriatric medicine?",
+    "back": "It is a simple, reproducible measure that independently predicts survival, hospitalization, disability, and institutionalization."
+  },
+  {
+    "id": 265,
+    "domain": "geriatric_syndromes",
+    "front": "Below what usual gait speed is risk of adverse outcomes considered substantially higher?",
+    "back": "Below 0.6 meters per second."
+  },
+  {
+    "id": 266,
+    "domain": "geriatric_syndromes",
+    "front": "How is a fragility fracture defined?",
+    "back": "A fracture occurring from a fall from standing height or less."
+  },
+  {
+    "id": 267,
+    "domain": "geriatric_syndromes",
+    "front": "What should be evaluated after any older adult sustains a fragility fracture?",
+    "back": "Underlying osteoporosis, including bone mineral density testing by DEXA at the hip and spine if not already performed."
+  },
+  {
+    "id": 268,
+    "domain": "geriatric_syndromes",
+    "front": "Name three secondary causes of osteoporosis to consider when bone loss is disproportionate to age.",
+    "back": "Hyperparathyroidism, hyperthyroidism, vitamin D deficiency, and hypogonadism."
+  },
+  {
+    "id": 269,
+    "domain": "geriatric_syndromes",
+    "front": "What does the FRAX tool estimate?",
+    "back": "The 10-year probability of hip fracture and major osteoporotic fracture, using clinical risk factors with or without bone mineral density."
+  },
+  {
+    "id": 270,
+    "domain": "geriatric_syndromes",
+    "front": "Why should pharmacologic osteoporosis therapy be started promptly after hip fracture?",
+    "back": "Treatment delay is associated with excess subsequent fracture risk, particularly in the year after the index fracture."
+  },
+  {
+    "id": 271,
+    "domain": "geriatric_syndromes",
+    "front": "Which anabolic agents may be preferred over standard antiresorptive therapy in very high fracture risk patients?",
+    "back": "Teriparatide or romosozumab."
+  },
+  {
+    "id": 272,
+    "domain": "geriatric_syndromes",
+    "front": "What is the essential nonpharmacologic foundation of osteoporosis management alongside medication?",
+    "back": "Calcium and vitamin D repletion, weight-bearing exercise as tolerated, and fall prevention interventions."
+  },
+  {
+    "id": 273,
+    "domain": "geriatric_syndromes",
+    "front": "What is deconditioning?",
+    "back": "The physiologic decline that follows a period of reduced physical activity, to which older adults are disproportionately vulnerable."
+  },
+  {
+    "id": 274,
+    "domain": "geriatric_syndromes",
+    "front": "What is hospitalization-associated disability?",
+    "back": "New dependence in basic activities of daily living at discharge that persists at one year, often out of proportion to the acute illness severity."
+  },
+  {
+    "id": 275,
+    "domain": "geriatric_syndromes",
+    "front": "How does bed rest affect upper versus lower extremity muscle strength?",
+    "back": "Lower extremity strength declines disproportionately compared with upper extremity strength within days of bed rest."
+  },
+  {
+    "id": 276,
+    "domain": "geriatric_syndromes",
+    "front": "What validated scale assesses pressure injury risk and what domains does it score?",
+    "back": "The Braden Scale, scoring sensory perception, moisture, activity, mobility, nutrition, and friction and shear."
+  },
+  {
+    "id": 277,
+    "domain": "geriatric_syndromes",
+    "front": "Over which anatomic sites do pressure injuries most commonly develop?",
+    "back": "Bony prominences such as the sacrum, heels, and greater trochanters."
+  },
+  {
+    "id": 278,
+    "domain": "geriatric_syndromes",
+    "front": "What repositioning interval is generally recommended to prevent pressure injuries in a bed-bound patient?",
+    "back": "Approximately every two hours."
+  },
+  {
+    "id": 279,
+    "domain": "geriatric_syndromes",
+    "front": "What is a contracture and how is it best prevented?",
+    "back": "Shortening of periarticular soft tissue from a joint held in a fixed position for a prolonged period; prevented with early range-of-motion exercises and appropriate positioning."
+  },
+  {
+    "id": 280,
+    "domain": "geriatric_syndromes",
+    "front": "What mechanism increases venous thromboembolism risk during immobility?",
+    "back": "Venous stasis from reduced movement of the lower extremities."
+  },
+  {
+    "id": 281,
+    "domain": "geriatric_syndromes",
+    "front": "When should mechanical VTE prophylaxis such as intermittent pneumatic compression be used instead of pharmacologic prophylaxis?",
+    "back": "When pharmacologic prophylaxis is contraindicated by active bleeding or high bleeding risk."
+  },
+  {
+    "id": 282,
+    "domain": "geriatric_syndromes",
+    "front": "What single intervention most effectively reduces VTE, deconditioning, delirium, and pressure injury simultaneously?",
+    "back": "Early mobilization after surgery or acute illness, whenever the patient's clinical status allows."
+  },
+  {
+    "id": 283,
+    "domain": "geriatric_syndromes",
+    "front": "What organizing framework integrates the evaluation and management of falls, frailty, sarcopenia, gait disorders, and immobility complications?",
+    "back": "Comprehensive geriatric assessment, incorporating functional, cognitive, nutritional, and social domains alongside the medical evaluation."
+  },
+  {
+    "id": 284,
+    "domain": "geriatric_syndromes",
+    "front": "What are the four CAM features and what combination is required to diagnose delirium?",
+    "back": "Acute onset and fluctuating course, inattention, disorganized thinking, and altered level of consciousness. Diagnosis requires features 1 and 2 plus either feature 3 or feature 4."
+  },
+  {
+    "id": 285,
+    "domain": "geriatric_syndromes",
+    "front": "What are the three motor subtypes of delirium?",
+    "back": "Hyperactive, hypoactive, and mixed. Mixed is the most common subtype in hospitalized older adults."
+  },
+  {
+    "id": 286,
+    "domain": "geriatric_syndromes",
+    "front": "Why is hypoactive delirium often underdiagnosed?",
+    "back": "It presents as lethargy and psychomotor slowing without agitation, so it is frequently mistaken for depression or fatigue rather than recognized as delirium."
+  },
+  {
+    "id": 287,
+    "domain": "geriatric_syndromes",
+    "front": "What is the single most important feature distinguishing delirium from dementia?",
+    "back": "Acute onset with a fluctuating course and altered attention in delirium, versus a gradual, stable decline over months to years in dementia."
+  },
+  {
+    "id": 288,
+    "domain": "geriatric_syndromes",
+    "front": "Name four predisposing factors for delirium.",
+    "back": "Advanced age, preexisting dementia, visual or hearing impairment, and severe underlying illness or multiple comorbidities."
+  },
+  {
+    "id": 289,
+    "domain": "geriatric_syndromes",
+    "front": "Name five common precipitating factors for delirium.",
+    "back": "Infection, metabolic derangement, medication effects, dehydration, and uncontrolled pain (also urinary retention, hypoxia, and surgery)."
+  },
+  {
+    "id": 290,
+    "domain": "geriatric_syndromes",
+    "front": "Why can a minor precipitant cause delirium in one patient but not another?",
+    "back": "Delirium arises from the interaction of predisposing vulnerability and precipitating insult; a highly vulnerable patient needs only a small trigger, while a robust patient requires a larger insult."
+  },
+  {
+    "id": 291,
+    "domain": "geriatric_syndromes",
+    "front": "Which Beers Criteria drug class is most strongly linked to precipitating delirium through central cholinergic blockade?",
+    "back": "Anticholinergic agents, including first generation antihistamines like diphenhydramine and bladder antimuscarinics like oxybutynin."
+  },
+  {
+    "id": 292,
+    "domain": "geriatric_syndromes",
+    "front": "Why should benzodiazepines generally be avoided as first line treatment for delirium-related agitation?",
+    "back": "They frequently worsen rather than improve confusion, with the important exception of delirium from alcohol or benzodiazepine withdrawal, where they are the treatment of choice."
+  },
+  {
+    "id": 293,
+    "domain": "geriatric_syndromes",
+    "front": "Why is meperidine specifically avoided in older adults?",
+    "back": "Meperidine itself has mild anticholinergic activity, and its metabolite normeperidine is neuroexcitatory (tremor, myoclonus, seizures), not anticholinergic; normeperidine accumulates with renal impairment and repeated dosing, increasing delirium risk."
+  },
+  {
+    "id": 294,
+    "domain": "geriatric_syndromes",
+    "front": "Why should pain not be undertreated when managing a delirious patient?",
+    "back": "Uncontrolled pain is itself a potent delirium precipitant, so the goal is the lowest effective dose of a safer analgesic, not withholding analgesia."
+  },
+  {
+    "id": 295,
+    "domain": "geriatric_syndromes",
+    "front": "What is the Hospital Elder Life Program and what does it target?",
+    "back": "A validated multicomponent non-pharmacologic intervention (reorientation, sleep protection, mobilization, sensory aid use) shown to reduce delirium incidence and duration."
+  },
+  {
+    "id": 296,
+    "domain": "geriatric_syndromes",
+    "front": "When is pharmacologic treatment of delirium-related agitation indicated?",
+    "back": "Only when agitation poses a direct safety risk and has not responded to non-pharmacologic measures, since no medication shortens overall delirium duration."
+  },
+  {
+    "id": 297,
+    "domain": "geriatric_syndromes",
+    "front": "Which antipsychotic is traditionally favored for delirium agitation and why?",
+    "back": "Low dose haloperidol, because it carries a lower anticholinergic and sedative burden than many alternatives."
+  },
+  {
+    "id": 298,
+    "domain": "geriatric_syndromes",
+    "front": "Why is quetiapine sometimes preferred over haloperidol in a delirious patient with Parkinson disease?",
+    "back": "Quetiapine carries a lower risk of worsening extrapyramidal symptoms, which haloperidol can exacerbate."
+  },
+  {
+    "id": 299,
+    "domain": "geriatric_syndromes",
+    "front": "What boxed warning applies to antipsychotic use and why does it matter in delirium management?",
+    "back": "Increased mortality risk in patients with dementia related psychosis, which is why antipsychotic use should be time limited and reserved for genuine safety indications."
+  },
+  {
+    "id": 300,
+    "domain": "geriatric_syndromes",
+    "front": "Describe the classic history for stress incontinence.",
+    "back": "Small volume leakage triggered by activities that raise intra-abdominal pressure, such as coughing, sneezing, laughing, or exertion, without urgency."
+  },
+  {
+    "id": 301,
+    "domain": "geriatric_syndromes",
+    "front": "Describe the classic history for urge incontinence.",
+    "back": "A sudden, strong urge to void followed by leakage before reaching the bathroom, often with frequency and nocturia, caused by involuntary detrusor contractions."
+  },
+  {
+    "id": 302,
+    "domain": "geriatric_syndromes",
+    "front": "Describe the classic history for overflow incontinence.",
+    "back": "Frequent dribbling, a weak stream, hesitancy, and a sense of incomplete emptying, caused by detrusor underactivity or bladder outlet obstruction."
+  },
+  {
+    "id": 303,
+    "domain": "geriatric_syndromes",
+    "front": "What is functional incontinence and how does it differ from other types?",
+    "back": "Leakage due to immobility or cognitive impairment preventing timely toileting, despite a normal lower urinary tract; managed with scheduled toileting rather than urinary medications."
+  },
+  {
+    "id": 304,
+    "domain": "geriatric_syndromes",
+    "front": "What single test best distinguishes overflow incontinence from urge incontinence?",
+    "back": "Post-void residual volume; a significantly elevated residual confirms overflow, while urge incontinence leaves a near-empty bladder."
+  },
+  {
+    "id": 305,
+    "domain": "geriatric_syndromes",
+    "front": "What is the first line treatment for stress incontinence?",
+    "back": "Pelvic floor muscle training."
+  },
+  {
+    "id": 306,
+    "domain": "geriatric_syndromes",
+    "front": "What is the first line treatment approach for urge incontinence?",
+    "back": "Bladder training combined with an antimuscarinic or beta-3 agonist medication."
+  },
+  {
+    "id": 307,
+    "domain": "geriatric_syndromes",
+    "front": "Why should antimuscarinic medications be used cautiously in patients with dementia?",
+    "back": "They are anticholinergic and can worsen cognition, and they should not be started until overflow incontinence has been excluded by post-void residual."
+  },
+  {
+    "id": 308,
+    "domain": "geriatric_syndromes",
+    "front": "What is the most common cause of new fecal incontinence with loose stool in a frail older adult?",
+    "back": "Fecal impaction with overflow diarrhea around a retained stool mass."
+  },
+  {
+    "id": 309,
+    "domain": "geriatric_syndromes",
+    "front": "What examination finding confirms fecal impaction and what is the appropriate treatment?",
+    "back": "A hard fecal mass on digital rectal examination; treatment is manual disimpaction, not antidiarrheal medication."
+  },
+  {
+    "id": 310,
+    "domain": "geriatric_syndromes",
+    "front": "What is the appropriate long term management after resolving a fecal impaction?",
+    "back": "A scheduled bowel regimen with adequate dietary fiber and fluid intake to prevent recurrence."
+  },
+  {
+    "id": 311,
+    "domain": "geriatric_syndromes",
+    "front": "What is presbycusis and what frequencies are affected first?",
+    "back": "Age related sensorineural hearing loss that begins with reduced sensitivity to high frequency sounds and progresses gradually."
+  },
+  {
+    "id": 312,
+    "domain": "geriatric_syndromes",
+    "front": "Name four consequences of untreated hearing impairment in older adults beyond communication difficulty.",
+    "back": "Social isolation, depression, falls, and increased risk of incident dementia."
+  },
+  {
+    "id": 313,
+    "domain": "geriatric_syndromes",
+    "front": "What reversible condition must be excluded by otoscopy before attributing hearing loss to presbycusis?",
+    "back": "Cerumen impaction."
+  },
+  {
+    "id": 314,
+    "domain": "geriatric_syndromes",
+    "front": "Why should a hospitalized patient's hearing aids always be kept in place if possible?",
+    "back": "Removing hearing aids removes a critical source of environmental orientation and can precipitate or worsen delirium."
+  },
+  {
+    "id": 315,
+    "domain": "geriatric_syndromes",
+    "front": "Describe the typical symptoms of cataracts.",
+    "back": "Painless, progressive blurring of vision, glare with bright lights or headlights at night, and faded color perception."
+  },
+  {
+    "id": 316,
+    "domain": "geriatric_syndromes",
+    "front": "When is cataract surgery generally recommended?",
+    "back": "Once the cataract begins to interfere meaningfully with daily activities such as driving or reading."
+  },
+  {
+    "id": 317,
+    "domain": "geriatric_syndromes",
+    "front": "What is the hallmark symptom of age related macular degeneration and what tool detects it?",
+    "back": "Painless central vision distortion, described as straight lines appearing wavy, detected early with an Amsler grid."
+  },
+  {
+    "id": 318,
+    "domain": "geriatric_syndromes",
+    "front": "Compare the dry and wet forms of macular degeneration.",
+    "back": "Dry form progresses slowly through drusen accumulation; wet form involves choroidal neovascularization and can cause rapid, severe vision loss requiring urgent treatment."
+  },
+  {
+    "id": 319,
+    "domain": "geriatric_syndromes",
+    "front": "What is the treatment for wet macular degeneration?",
+    "back": "Urgent ophthalmologic referral for intravitreal anti-vascular endothelial growth factor injections."
+  },
+  {
+    "id": 320,
+    "domain": "geriatric_syndromes",
+    "front": "What is glaucoma and what part of vision is typically affected first?",
+    "back": "A progressive optic neuropathy, usually associated with elevated intraocular pressure, that causes gradual peripheral vision loss before central vision is affected."
+  },
+  {
+    "id": 321,
+    "domain": "geriatric_syndromes",
+    "front": "Why can glaucoma progress substantially before a patient notices symptoms?",
+    "back": "Because peripheral vision loss is typically asymptomatic until damage is advanced, making patients frequently unaware until significant, irreversible loss has occurred."
+  },
+  {
+    "id": 322,
+    "domain": "geriatric_syndromes",
+    "front": "How is open angle glaucoma typically detected?",
+    "back": "Through routine screening with tonometry and optic disc examination rather than patient-reported symptoms."
+  },
+  {
+    "id": 323,
+    "domain": "geriatric_syndromes",
+    "front": "What are the treatment options for glaucoma?",
+    "back": "Topical medications to lower intraocular pressure, with laser or surgical intervention for cases refractory to medical therapy."
+  },
+  {
+    "id": 324,
+    "domain": "geriatric_syndromes",
+    "front": "How does uncorrected sensory impairment relate to delirium and functional incontinence?",
+    "back": "It is a predisposing factor for delirium and can contribute to functional incontinence by impairing the ability to navigate safely to a toilet."
+  },
+  {
+    "id": 325,
+    "domain": "geriatric_syndromes",
+    "front": "What is the required initial workup for any older adult with new incontinence?",
+    "back": "Focused history to distinguish incontinence type, medication review, pelvic or prostate exam, urinalysis to exclude infection, and post-void residual measurement."
+  },
+  {
+    "id": 326,
+    "domain": "geriatric_syndromes",
+    "front": "Why is incontinence never considered a normal part of aging?",
+    "back": "Because it always has an identifiable, often treatable type and cause, so an evaluation should be performed rather than accepting it as inevitable."
+  },
+  {
+    "id": 327,
+    "domain": "geriatric_syndromes",
+    "front": "What is the effect of chronic antimuscarinic use on bladder emptying and why does this matter?",
+    "back": "It can impair detrusor contractility over time and produce a superimposed overflow component, so a post-void residual should be reassessed if new emptying symptoms develop."
+  },
+  {
+    "id": 328,
+    "domain": "geriatric_syndromes",
+    "front": "Name three common causes of fecal incontinence other than impaction.",
+    "back": "Anal sphincter weakness from obstetric trauma or surgery, neurologic conditions affecting rectal sensation such as diabetes or dementia, and severe diarrheal illness overwhelming sphincter control."
+  },
+  {
+    "id": 329,
+    "domain": "geriatric_syndromes",
+    "front": "Why should a delirium workup continue even after one abnormality is found?",
+    "back": "Multiple contributing precipitants are typically present simultaneously, and stopping at the first finding risks missing others that must also be treated."
+  },
+  {
+    "id": 330,
+    "domain": "geriatric_syndromes",
+    "front": "How should a chronic benzodiazepine be managed in a patient hospitalized with an unrelated acute illness and delirium?",
+    "back": "Avoid abrupt discontinuation to prevent withdrawal while treating the acute illness and other precipitants, then reassess for a supervised taper once stable."
+  },
+  {
+    "id": 331,
+    "domain": "geriatric_syndromes",
+    "front": "What environmental factors in the intensive care unit contribute to delirium risk?",
+    "back": "Sleep deprivation from nighttime interruptions, sensory deprivation, physical restraints, and an unfamiliar environment."
+  },
+  {
+    "id": 332,
+    "domain": "geriatric_syndromes",
+    "front": "Why should physical restraints generally be avoided in delirium management?",
+    "back": "They increase agitation and injury risk rather than providing safety."
+  },
+  {
+    "id": 333,
+    "domain": "geriatric_syndromes",
+    "front": "What laboratory and physical findings should be checked in every delirium evaluation?",
+    "back": "Complete blood count, basic metabolic panel, urinalysis, oxygenation status, pain assessment, and a full medication reconciliation."
+  },
+  {
+    "id": 334,
+    "domain": "geriatric_syndromes",
+    "front": "Why is a temporal relationship important when linking a new medication to delirium onset?",
+    "back": "An acute confusional change occurring soon after starting or increasing a medication strongly supports a medication-induced etiology, guiding discontinuation as treatment."
+  },
+  {
+    "id": 335,
+    "domain": "geriatric_syndromes",
+    "front": "What is the appropriate duration for antipsychotic use once started for delirium-related agitation?",
+    "back": "Time limited, with a defined plan to taper and discontinue once the acute safety indication resolves."
+  },
+  {
+    "id": 336,
+    "domain": "geriatric_syndromes",
+    "front": "What should be done if a patient with suspected urge incontinence also has risk factors for neuropathy, such as diabetes?",
+    "back": "Obtain a post-void residual to exclude an overflow component before starting an antimuscarinic, since neuropathy can impair detrusor contractility."
+  },
+  {
+    "id": 337,
+    "domain": "geriatric_syndromes",
+    "front": "What is a reasonable interim strategy for a patient who declines hearing aids due to cost?",
+    "back": "Simple communication strategies such as facing the patient, speaking clearly, reducing background noise, and exploring assistance programs."
+  },
+  {
+    "id": 338,
+    "domain": "geriatric_syndromes",
+    "front": "Why does cataract surgery not affect coexisting glaucoma?",
+    "back": "They are distinct ocular conditions with separate mechanisms, so glaucoma requires its own ongoing monitoring and treatment even after successful cataract surgery."
+  },
+  {
+    "id": 339,
+    "domain": "geriatric_syndromes",
+    "front": "What does symptom resolution with an antipsychotic NOT confirm about a delirious patient?",
+    "back": "It does not confirm the underlying precipitant has been fully identified or resolved, since antipsychotics control agitation without treating the cause or shortening delirium duration."
+  },
+  {
+    "id": 340,
+    "domain": "geriatric_syndromes",
+    "front": "How can uncorrected hearing impairment confound bedside cognitive testing?",
+    "back": "It can mimic inattention or cognitive impairment, so sensory input should be optimized, such as with amplification, before formal cognitive assessment."
+  },
+  {
+    "id": 341,
+    "domain": "caring_for_elderly_patients",
+    "front": "What are the six tasks evaluated by the Katz Index of Independence in Activities of Daily Living?",
+    "back": "Bathing, dressing, toileting, transferring, continence, and feeding."
+  },
+  {
+    "id": 342,
+    "domain": "caring_for_elderly_patients",
+    "front": "What eight tasks does the Lawton Instrumental Activities of Daily Living scale assess?",
+    "back": "Managing finances, medications, transportation, telephone use, shopping, meal preparation, housekeeping, and laundry."
+  },
+  {
+    "id": 343,
+    "domain": "caring_for_elderly_patients",
+    "front": "What Timed Up and Go result indicates increased fall risk?",
+    "back": "A time greater than twelve seconds to rise, walk three meters, turn, return, and sit down."
+  },
+  {
+    "id": 344,
+    "domain": "caring_for_elderly_patients",
+    "front": "What gait speed threshold predicts higher risk of disability, hospitalization, and mortality?",
+    "back": "A usual gait speed below 0.6 to 0.8 meters per second."
+  },
+  {
+    "id": 345,
+    "domain": "caring_for_elderly_patients",
+    "front": "What two components make up the Mini-Cog assessment?",
+    "back": "A three-item recall task combined with a clock-drawing test, completed in under three minutes."
+  },
+  {
+    "id": 346,
+    "domain": "caring_for_elderly_patients",
+    "front": "Which pharmacokinetic parameter is least affected by normal aging?",
+    "back": "Drug absorption, since overall bioavailability of most oral drugs is not substantially altered."
+  },
+  {
+    "id": 347,
+    "domain": "caring_for_elderly_patients",
+    "front": "How does aging affect the volume of distribution for lipophilic drugs like diazepam?",
+    "back": "It increases, due to a higher proportion of body fat, which prolongs the drug's elimination half-life."
+  },
+  {
+    "id": 348,
+    "domain": "caring_for_elderly_patients",
+    "front": "How does aging affect the volume of distribution for hydrophilic drugs like digoxin?",
+    "back": "It decreases, due to reduced total body water and lean mass, which can raise peak serum concentrations after a standard dose."
+  },
+  {
+    "id": 349,
+    "domain": "caring_for_elderly_patients",
+    "front": "Why can serum creatinine appear normal despite reduced glomerular filtration rate in older adults?",
+    "back": "Reduced muscle mass lowers creatinine production, masking the true decline in renal function."
+  },
+  {
+    "id": 350,
+    "domain": "caring_for_elderly_patients",
+    "front": "Which benzodiazepines are preferred in older adults and why?",
+    "back": "Lorazepam, oxazepam, and temazepam, because they undergo direct phase II glucuronidation without needing oxidative metabolism."
+  },
+  {
+    "id": 351,
+    "domain": "caring_for_elderly_patients",
+    "front": "How does low serum albumin affect highly protein-bound drugs like phenytoin?",
+    "back": "It increases the free, active drug fraction, which can cause toxicity even when total drug levels appear normal."
+  },
+  {
+    "id": 352,
+    "domain": "caring_for_elderly_patients",
+    "front": "What defines polypharmacy?",
+    "back": "The concurrent use of five or more medications by a patient."
+  },
+  {
+    "id": 353,
+    "domain": "caring_for_elderly_patients",
+    "front": "Name a medication class the Beers Criteria flag to avoid in most older adults due to delirium and fall risk.",
+    "back": "First-generation antihistamines, such as diphenhydramine and hydroxyzine."
+  },
+  {
+    "id": 354,
+    "domain": "caring_for_elderly_patients",
+    "front": "Why do Beers Criteria flag chronic proton pump inhibitor use beyond eight weeks without a clear indication?",
+    "back": "It increases risk of Clostridioides difficile infection, bone loss, and vitamin B12 deficiency."
+  },
+  {
+    "id": 355,
+    "domain": "caring_for_elderly_patients",
+    "front": "Why is glyburide specifically flagged in the Beers Criteria?",
+    "back": "Its long duration of action increases the risk of prolonged, sometimes severe hypoglycemia."
+  },
+  {
+    "id": 356,
+    "domain": "caring_for_elderly_patients",
+    "front": "What does the STOPP tool identify?",
+    "back": "Potentially inappropriate medications in older adults, organized by physiological system, to guide deprescribing."
+  },
+  {
+    "id": 357,
+    "domain": "caring_for_elderly_patients",
+    "front": "What does the START tool identify?",
+    "back": "Evidence-based medications that are potentially underused in older adults, addressing the risk of undertreatment."
+  },
+  {
+    "id": 358,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is deprescribing?",
+    "back": "The planned, supervised process of reducing or stopping medications that may cause harm or no longer provide benefit, based on patient goals and life expectancy."
+  },
+  {
+    "id": 359,
+    "domain": "caring_for_elderly_patients",
+    "front": "Why should benzodiazepines be tapered rather than stopped abruptly during deprescribing?",
+    "back": "Abrupt discontinuation risks a known withdrawal syndrome, including seizures and severe rebound anxiety."
+  },
+  {
+    "id": 360,
+    "domain": "caring_for_elderly_patients",
+    "front": "Which drug classes account for most emergency department visits for adverse drug events in older adults?",
+    "back": "Anticoagulants, oral antidiabetic agents and insulin, and opioid analgesics."
+  },
+  {
+    "id": 361,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is anticholinergic burden and why does it matter?",
+    "back": "The cumulative effect of multiple anticholinergic medications, associated with cognitive impairment, delirium, constipation, and long-term dementia risk."
+  },
+  {
+    "id": 362,
+    "domain": "caring_for_elderly_patients",
+    "front": "Name three medication classes commonly implicated in precipitating delirium in hospitalized older adults.",
+    "back": "Benzodiazepines, opioids, and anticholinergic medications, among others such as corticosteroids and high-dose histamine-2 blockers."
+  },
+  {
+    "id": 363,
+    "domain": "caring_for_elderly_patients",
+    "front": "What threshold of unintentional weight loss warrants systematic evaluation in older adults?",
+    "back": "Loss of five percent or more of body weight over six to twelve months."
+  },
+  {
+    "id": 364,
+    "domain": "caring_for_elderly_patients",
+    "front": "What does the Mini Nutritional Assessment evaluate?",
+    "back": "Dietary intake, weight loss, mobility, psychological stress, and body mass index, specifically validated for older adults."
+  },
+  {
+    "id": 365,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is sarcopenia and how is it assessed?",
+    "back": "Age-related loss of skeletal muscle mass and strength, assessed with grip strength, gait speed, and muscle mass imaging."
+  },
+  {
+    "id": 366,
+    "domain": "caring_for_elderly_patients",
+    "front": "Why are older adults more prone to vitamin B12 deficiency?",
+    "back": "Age-related atrophic gastritis reduces intrinsic factor and gastric acid, impairing B12 absorption."
+  },
+  {
+    "id": 367,
+    "domain": "caring_for_elderly_patients",
+    "front": "What effect does vitamin D deficiency have on parathyroid hormone and bone in older adults?",
+    "back": "It contributes to secondary hyperparathyroidism, bone loss, and muscle weakness."
+  },
+  {
+    "id": 368,
+    "domain": "caring_for_elderly_patients",
+    "front": "What sleep architecture changes are expected with normal aging?",
+    "back": "Decreased slow-wave sleep, increased fragmentation, and earlier sleep onset and wake times."
+  },
+  {
+    "id": 369,
+    "domain": "caring_for_elderly_patients",
+    "front": "What does REM sleep behavior disorder suggest as a possible prodromal marker?",
+    "back": "An evolving synucleinopathy, such as Parkinson disease or Lewy body dementia."
+  },
+  {
+    "id": 370,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is the recommended first-line treatment for insomnia in older adults?",
+    "back": "Cognitive behavioral therapy for insomnia, before pharmacotherapy is considered."
+  },
+  {
+    "id": 371,
+    "domain": "caring_for_elderly_patients",
+    "front": "How should clinicians approach sexual health in older patients?",
+    "back": "Proactively and nonjudgmentally, since sexual health remains relevant throughout the lifespan and many concerns are treatable."
+  },
+  {
+    "id": 372,
+    "domain": "caring_for_elderly_patients",
+    "front": "Why is the high-dose or adjuvanted influenza vaccine preferred over standard dose for adults sixty-five and older?",
+    "back": "It improves immunogenicity given age-related decline in immune response."
+  },
+  {
+    "id": 373,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is the current ACIP recommendation for the recombinant zoster vaccine?",
+    "back": "A two-dose series for all adults fifty and older, regardless of prior herpes zoster vaccine history."
+  },
+  {
+    "id": 374,
+    "domain": "caring_for_elderly_patients",
+    "front": "How often should a Td or Tdap booster be updated in adults?",
+    "back": "Every ten years."
+  },
+  {
+    "id": 375,
+    "domain": "caring_for_elderly_patients",
+    "front": "What factor should most heavily influence cancer screening decisions in older adults?",
+    "back": "Estimated remaining life expectancy and the time-to-benefit of the specific screening test."
+  },
+  {
+    "id": 376,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is the primary output of a comprehensive geriatric assessment?",
+    "back": "A prioritized, patient-centered problem list and coordinated care plan."
+  },
+  {
+    "id": 377,
+    "domain": "caring_for_elderly_patients",
+    "front": "Why can a hospitalized older adult with normal creatinine still accumulate a renally cleared drug?",
+    "back": "Reduced muscle mass masks true renal decline, so estimated creatinine clearance, not serum creatinine alone, should guide dosing."
+  },
+  {
+    "id": 378,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is the first step in a structured deprescribing process?",
+    "back": "Reconciling and reviewing the complete current medication list."
+  },
+  {
+    "id": 379,
+    "domain": "caring_for_elderly_patients",
+    "front": "Why are skeletal muscle relaxants like cyclobenzaprine flagged by the Beers Criteria?",
+    "back": "They carry anticholinergic effects, sedation, and increased fracture risk in older adults."
+  },
+  {
+    "id": 380,
+    "domain": "caring_for_elderly_patients",
+    "front": "Why does chronic NSAID use pose particular risk in older adults with heart failure or chronic kidney disease?",
+    "back": "It causes fluid retention and nephrotoxicity, worsening both conditions."
+  },
+  {
+    "id": 381,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is the Medicare Hospice Benefit prognosis requirement for eligibility?",
+    "back": "A life expectancy of six months or less if the illness runs its normal course, certified by two physicians at election."
+  },
+  {
+    "id": 382,
+    "domain": "caring_for_elderly_patients",
+    "front": "How does hospice differ from general palliative care in terms of prognosis?",
+    "back": "Hospice requires a six-month-or-less prognosis and forgoing curative treatment; palliative care has no prognosis requirement and can accompany curative treatment."
+  },
+  {
+    "id": 383,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is the hospice recertification schedule after the initial 180 days?",
+    "back": "Unlimited 60-day benefit periods, each requiring a face-to-face encounter within 30 days before recertification."
+  },
+  {
+    "id": 384,
+    "domain": "caring_for_elderly_patients",
+    "front": "What FAST stage, plus a comorbid complication, supports hospice eligibility in dementia?",
+    "back": "FAST stage 7C or beyond, combined with a complication such as aspiration pneumonia, recurrent fever, or advanced pressure ulcers."
+  },
+  {
+    "id": 385,
+    "domain": "caring_for_elderly_patients",
+    "front": "What heart failure findings support hospice eligibility?",
+    "back": "NYHA class IV symptoms despite optimal medical therapy, an ejection fraction of 20% or less, and symptomatic arrhythmias or syncope."
+  },
+  {
+    "id": 386,
+    "domain": "caring_for_elderly_patients",
+    "front": "What COPD findings support hospice eligibility?",
+    "back": "Disabling dyspnea at rest poorly responsive to bronchodilators, FEV1 typically below 30% predicted, and recurrent hospitalizations for respiratory failure."
+  },
+  {
+    "id": 387,
+    "domain": "caring_for_elderly_patients",
+    "front": "Name the four levels of hospice care under the Medicare Hospice Benefit.",
+    "back": "Routine home care, continuous home care, general inpatient care, and respite care."
+  },
+  {
+    "id": 388,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is continuous home care used for?",
+    "back": "Brief periods of acute symptom crisis requiring intensive nursing presence at home."
+  },
+  {
+    "id": 389,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is respite care and how long can it last?",
+    "back": "Up to five days of inpatient care specifically to give a family caregiver a planned break."
+  },
+  {
+    "id": 390,
+    "domain": "caring_for_elderly_patients",
+    "front": "What tool assesses pain in patients with advanced dementia who cannot self-report?",
+    "back": "The PAINAD scale, assessing breathing, negative vocalization, facial expression, body language, and consolability."
+  },
+  {
+    "id": 391,
+    "domain": "caring_for_elderly_patients",
+    "front": "Why should morphine generally be avoided or dose-reduced in severe renal impairment?",
+    "back": "Morphine-3-glucuronide, its most abundant metabolite, has no analgesic activity but accumulates with renal impairment and causes neuroexcitatory toxicity such as myoclonus; morphine-6-glucuronide, its active metabolite, instead causes enhanced sedation and respiratory depression."
+  },
+  {
+    "id": 392,
+    "domain": "caring_for_elderly_patients",
+    "front": "Which opioid has no clinically significant active renally cleared metabolites?",
+    "back": "Fentanyl, often preferred in advanced kidney disease."
+  },
+  {
+    "id": 393,
+    "domain": "caring_for_elderly_patients",
+    "front": "Why are codeine and tramadol generally avoided in older adults?",
+    "back": "They have variable, unpredictable CYP2D6-dependent metabolism, and tramadol also raises seizure risk."
+  },
+  {
+    "id": 394,
+    "domain": "caring_for_elderly_patients",
+    "front": "Why should a bowel regimen be started with any opioid from the outset?",
+    "back": "Opioid-induced constipation does not develop tolerance over time, unlike sedation or nausea."
+  },
+  {
+    "id": 395,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is the general opioid starting-dose principle for older adults?",
+    "back": "Start at 25 to 50% lower than the standard adult dose with slower titration, sometimes called start low, go slow."
+  },
+  {
+    "id": 396,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is the principle of double effect?",
+    "back": "An intervention given with intent to relieve suffering at a proportionate dose is ethically distinct from euthanasia, even if death is a foreseen possible consequence."
+  },
+  {
+    "id": 397,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is an advance directive and what two components can it include?",
+    "back": "A legal document completed with capacity that may include a living will (treatment preferences) and a durable power of attorney for health care (naming a proxy)."
+  },
+  {
+    "id": 398,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is decision-making capacity and how does it differ from legal competence?",
+    "back": "Capacity is a clinical, decision-specific determination made by a physician; competence is a broader legal determination made by a court."
+  },
+  {
+    "id": 399,
+    "domain": "caring_for_elderly_patients",
+    "front": "Name the four elements of the standard capacity assessment framework.",
+    "back": "Understanding, appreciation, reasoning, and the ability to communicate a clear and consistent choice."
+  },
+  {
+    "id": 400,
+    "domain": "caring_for_elderly_patients",
+    "front": "Does a dementia diagnosis automatically mean a patient lacks capacity?",
+    "back": "No. Capacity is decision-specific, and many patients with mild to moderate dementia retain capacity for many decisions."
+  },
+  {
+    "id": 401,
+    "domain": "caring_for_elderly_patients",
+    "front": "Does refusing recommended treatment automatically indicate incapacity?",
+    "back": "No. A patient with capacity has the right to refuse even life-sustaining treatment if the refusal reflects reasoned application of their own values."
+  },
+  {
+    "id": 402,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is the typical default surrogate hierarchy when no proxy is designated?",
+    "back": "Court-appointed guardian, then spouse, then adult children, then parents, then siblings, though order varies by jurisdiction."
+  },
+  {
+    "id": 403,
+    "domain": "caring_for_elderly_patients",
+    "front": "What standard should a surrogate apply when the patient's own wishes are known?",
+    "back": "Substituted judgment, deciding as the patient would have decided based on their known values and prior statements."
+  },
+  {
+    "id": 404,
+    "domain": "caring_for_elderly_patients",
+    "front": "What standard should a surrogate apply when the patient's wishes are unknown?",
+    "back": "The best interest standard, weighing burdens and benefits from a reasonable person's perspective."
+  },
+  {
+    "id": 405,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is a POLST or MOLST form and how does it differ from an advance directive?",
+    "back": "An actionable medical order signed by a clinician that travels with the patient and can be implemented immediately, unlike an advance directive, which typically requires interpretation."
+  },
+  {
+    "id": 406,
+    "domain": "caring_for_elderly_patients",
+    "front": "Who is the intended population for a POLST versus an advance directive?",
+    "back": "POLST is intended for patients with serious illness or frailty facing near-term decisions; advance directives are appropriate for any adult regardless of current health."
+  },
+  {
+    "id": 407,
+    "domain": "caring_for_elderly_patients",
+    "front": "What proportion of Medicare hospitalizations are followed by a 30-day readmission?",
+    "back": "Nearly one in five, with many considered potentially preventable through better transitional care."
+  },
+  {
+    "id": 408,
+    "domain": "caring_for_elderly_patients",
+    "front": "What follow-up timing is recommended for unstable heart failure patients after discharge?",
+    "back": "Within 48 to 72 hours of discharge, given their high risk of early decompensation."
+  },
+  {
+    "id": 409,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is the signature feature of the Naylor Transitional Care Model?",
+    "back": "An advanced practice nurse follows high-risk older adults from hospitalization through the post-discharge period with home visits and phone availability."
+  },
+  {
+    "id": 410,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is the signature feature of Coleman's Care Transitions Intervention?",
+    "back": "A transition coach empowers the patient and caregiver to self-manage using a personal health record, medication list, and red flag checklist."
+  },
+  {
+    "id": 411,
+    "domain": "caring_for_elderly_patients",
+    "front": "What are the core components of Project RED (Re-Engineered Discharge)?",
+    "back": "A comprehensive discharge plan, medication reconciliation, a discharge summary sent to the outpatient provider, and a follow-up call within two to three days."
+  },
+  {
+    "id": 412,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is teach-back technique used for at discharge?",
+    "back": "Confirming patient or caregiver comprehension by having them restate the plan in their own words."
+  },
+  {
+    "id": 413,
+    "domain": "caring_for_elderly_patients",
+    "front": "How does assisted living differ from a skilled nursing facility?",
+    "back": "Assisted living provides housing and help with daily tasks without 24-hour skilled nursing supervision, and is generally not covered by Medicare."
+  },
+  {
+    "id": 414,
+    "domain": "caring_for_elderly_patients",
+    "front": "What Medicare requirement must be met before a skilled nursing facility stay is covered?",
+    "back": "A qualifying inpatient hospital stay, plus an ongoing skilled care need, with coverage limited to 100 days per benefit period."
+  },
+  {
+    "id": 415,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is the Program of All-Inclusive Care for the Elderly (PACE)?",
+    "back": "A capitated Medicare and Medicaid program providing comprehensive interdisciplinary care to nursing-home-eligible individuals who wish to remain in the community."
+  },
+  {
+    "id": 416,
+    "domain": "caring_for_elderly_patients",
+    "front": "What distinguishes elder abuse neglect from self-neglect?",
+    "back": "Neglect is a caregiver's failure to provide necessary care; self-neglect is the older adult's own failure to meet their basic needs."
+  },
+  {
+    "id": 417,
+    "domain": "caring_for_elderly_patients",
+    "front": "What clinical clue suggests financial exploitation in an older adult?",
+    "back": "Unexplained changes in financial status or a sudden, unexplained change to a will or power of attorney."
+  },
+  {
+    "id": 418,
+    "domain": "caring_for_elderly_patients",
+    "front": "Does a capacitated older adult's consent to remain in an abusive situation exempt a physician from mandatory reporting?",
+    "back": "Generally no. Mandatory reporting laws typically still require the report even when the patient has capacity and declines intervention."
+  },
+  {
+    "id": 419,
+    "domain": "caring_for_elderly_patients",
+    "front": "What does evidence show about tube feeding versus careful hand feeding in advanced dementia?",
+    "back": "Tube feeding does not reduce aspiration risk, does not improve survival, and does not improve comfort compared with careful hand feeding."
+  },
+  {
+    "id": 420,
+    "domain": "caring_for_elderly_patients",
+    "front": "What is a time-limited trial in palliative care decision-making?",
+    "back": "A predefined period and specific clinical markers agreed upon in advance to reassess whether an intervention is achieving the patient's goals."
+  },
+  {
+    "id": 421,
+    "domain": "geriatric_psychiatry",
+    "front": "What are the core clinical features that distinguish dementia with Lewy bodies from Alzheimer disease?",
+    "back": "Fluctuating cognition, recurrent well-formed visual hallucinations, REM sleep behavior disorder, and spontaneous parkinsonism, often with marked neuroleptic sensitivity to antipsychotics."
+  },
+  {
+    "id": 422,
+    "domain": "geriatric_psychiatry",
+    "front": "What is the one-year rule used to distinguish dementia with Lewy bodies from Parkinson disease dementia?",
+    "back": "If motor parkinsonism precedes cognitive decline by more than one year, the diagnosis is Parkinson disease dementia rather than dementia with Lewy bodies."
+  },
+  {
+    "id": 423,
+    "domain": "geriatric_psychiatry",
+    "front": "What early features characterize behavioral variant frontotemporal dementia?",
+    "back": "Early personality change, disinhibition, apathy, loss of empathy, compulsive behaviors, and hyperorality, often with relatively preserved memory early on."
+  },
+  {
+    "id": 424,
+    "domain": "geriatric_psychiatry",
+    "front": "Why is behavioral variant frontotemporal dementia frequently misdiagnosed initially?",
+    "back": "Its early behavioral changes such as disinhibition and poor judgment can closely resemble a primary psychiatric disorder like depression, mania, or a personality disorder."
+  },
+  {
+    "id": 425,
+    "domain": "geriatric_psychiatry",
+    "front": "What clinical pattern suggests a vascular contribution to a patient's neurocognitive decline?",
+    "back": "A stepwise decline, early executive dysfunction and gait disturbance, focal neurologic signs, and a clear temporal relationship to documented strokes."
+  },
+  {
+    "id": 426,
+    "domain": "geriatric_psychiatry",
+    "front": "How does the MoCA compare with the MMSE for detecting mild cognitive impairment?",
+    "back": "The Montreal Cognitive Assessment is more sensitive than the MMSE to mild impairment and executive or frontal-subcortical dysfunction."
+  },
+  {
+    "id": 427,
+    "domain": "geriatric_psychiatry",
+    "front": "What does the Clinical Dementia Rating scale measure?",
+    "back": "It stages dementia severity from 0 (none) to 3 (severe) based on memory, orientation, judgment, community affairs, home and hobbies, and personal care."
+  },
+  {
+    "id": 428,
+    "domain": "geriatric_psychiatry",
+    "front": "What is the risk of using antipsychotics in a patient with dementia with Lewy bodies?",
+    "back": "Marked neuroleptic sensitivity, which can cause severe, sometimes irreversible worsening with rigidity, autonomic instability, and further cognitive decline."
+  },
+  {
+    "id": 429,
+    "domain": "geriatric_psychiatry",
+    "front": "What biomarkers support a diagnosis of Alzheimer disease and guide eligibility for anti-amyloid therapy?",
+    "back": "Amyloid PET imaging, CSF amyloid and tau ratios, and plasma phosphorylated tau; confirmed amyloid pathology is required before starting anti-amyloid monoclonal antibodies."
+  },
+  {
+    "id": 430,
+    "domain": "geriatric_psychiatry",
+    "front": "What is ARIA and why does it matter with anti-amyloid monoclonal antibodies?",
+    "back": "Amyloid-related imaging abnormality, including edema (ARIA-E) and microhemorrhage (ARIA-H); risk is higher in APOE e4 homozygotes and requires serial MRI monitoring."
+  },
+  {
+    "id": 431,
+    "domain": "geriatric_psychiatry",
+    "front": "How does late-life depression often present differently from depression in younger adults?",
+    "back": "With atypical, somatic features such as fatigue, pain, and cognitive complaints, and irritability or anhedonia rather than an explicit report of sadness."
+  },
+  {
+    "id": 432,
+    "domain": "geriatric_psychiatry",
+    "front": "What is vascular depression and how does it respond to treatment?",
+    "back": "A depression subtype linked to cerebrovascular disease with prominent executive dysfunction, psychomotor slowing, and reduced insight, responding less robustly to standard antidepressants."
+  },
+  {
+    "id": 433,
+    "domain": "geriatric_psychiatry",
+    "front": "What clinical features favor pseudodementia over a primary neurocognitive disorder?",
+    "back": "Abrupt onset, short duration, subjective complaints exceeding objective deficits, frequent I don't know answers, effort-dependent testing, and a personal or family history of mood disorder."
+  },
+  {
+    "id": 434,
+    "domain": "geriatric_psychiatry",
+    "front": "After treating depression in a patient with pseudodementia, what should be done if cognitive symptoms persist?",
+    "back": "Cognition should be reassessed after full depression remission rather than assuming residual deficits are fully explained by mood, since depression can be prodromal to dementia."
+  },
+  {
+    "id": 435,
+    "domain": "geriatric_psychiatry",
+    "front": "What is the maximum recommended citalopram dose in patients over 60 and why?",
+    "back": "20 milligrams daily, due to dose-dependent QTc prolongation risk that is heightened in older adults."
+  },
+  {
+    "id": 436,
+    "domain": "geriatric_psychiatry",
+    "front": "When is electroconvulsive therapy particularly indicated in geriatric depression?",
+    "back": "For severe, treatment-resistant, or psychotic depression, including in patients with significant medical comorbidity; it is often underutilized due to stigma."
+  },
+  {
+    "id": 437,
+    "domain": "geriatric_psychiatry",
+    "front": "What should be evaluated before diagnosing a primary anxiety disorder in a newly anxious older adult?",
+    "back": "Underlying medical contributors such as thyroid dysfunction, cardiac arrhythmia, pulmonary disease, and medication effects, as well as an emerging neurocognitive disorder."
+  },
+  {
+    "id": 438,
+    "domain": "geriatric_psychiatry",
+    "front": "Why are benzodiazepines avoided as first-line therapy for anxiety in older adults?",
+    "back": "They carry significant fall risk, cognitive impairment, and dependence potential; SSRIs or SNRIs plus cognitive behavioral therapy are preferred instead."
+  },
+  {
+    "id": 439,
+    "domain": "geriatric_psychiatry",
+    "front": "How does late-onset psychosis typically differ from early-onset schizophrenia?",
+    "back": "Negative symptoms and formal thought disorder are less prominent, while well-systematized paranoid delusions and hallucinations, often tied to sensory impairment, are common."
+  },
+  {
+    "id": 440,
+    "domain": "geriatric_psychiatry",
+    "front": "What is Charles Bonnet syndrome?",
+    "back": "Visual hallucinations occurring in the setting of significant vision loss, with preserved insight and no other psychiatric symptoms."
+  },
+  {
+    "id": 441,
+    "domain": "geriatric_psychiatry",
+    "front": "What must be excluded before diagnosing a primary late-onset psychotic disorder?",
+    "back": "Delirium, an underlying neurocognitive disorder, substance effects, and other medical causes of new psychiatric symptoms."
+  },
+  {
+    "id": 442,
+    "domain": "geriatric_psychiatry",
+    "front": "What is the DICE approach for managing behavioral and psychological symptoms of dementia?",
+    "back": "Describe, Investigate, Create a plan, and Evaluate, a systematic nonpharmacologic framework for addressing BPSD."
+  },
+  {
+    "id": 443,
+    "domain": "geriatric_psychiatry",
+    "front": "What is the FDA regulatory status of antipsychotics for dementia-related psychosis?",
+    "back": "All antipsychotics carry a black box warning for increased mortality in this population; brexpiprazole is the only agent with specific approval, for agitation in Alzheimer dementia."
+  },
+  {
+    "id": 444,
+    "domain": "geriatric_psychiatry",
+    "front": "Which second-generation antipsychotic has the most evidence for treating dementia-related agitation?",
+    "back": "Risperidone, used at the lowest effective dose for the shortest duration when nonpharmacologic measures have failed."
+  },
+  {
+    "id": 445,
+    "domain": "geriatric_psychiatry",
+    "front": "What monitoring is required when using citalopram for dementia-related agitation?",
+    "back": "QTc interval monitoring, given citalopram's dose-dependent effect on cardiac conduction."
+  },
+  {
+    "id": 446,
+    "domain": "geriatric_psychiatry",
+    "front": "Do cholinesterase inhibitors and memantine reliably treat behavioral symptoms of dementia?",
+    "back": "No; they have only modest and inconsistent effects on BPSD and are primarily indicated for cognitive symptoms."
+  },
+  {
+    "id": 447,
+    "domain": "geriatric_psychiatry",
+    "front": "Which demographic group has the highest suicide rate of any age and sex category?",
+    "back": "White men over the age of 75."
+  },
+  {
+    "id": 448,
+    "domain": "geriatric_psychiatry",
+    "front": "Why is the ratio of completed to attempted suicides so much higher in older adults than younger adults?",
+    "back": "Greater lethality of methods used (especially firearms), greater physical frailty reducing survivability, and social isolation delaying discovery and rescue."
+  },
+  {
+    "id": 449,
+    "domain": "geriatric_psychiatry",
+    "front": "What behavioral warning signs of imminent suicide risk are specific to older adults?",
+    "back": "Giving away possessions, a sudden calm after a period of depression, statements about being a burden, and neglect of medical regimens as passive self-harm."
+  },
+  {
+    "id": 450,
+    "domain": "geriatric_psychiatry",
+    "front": "What tool is used to systematically assess suicidal ideation and behavior intensity?",
+    "back": "The Columbia-Suicide Severity Rating Scale."
+  },
+  {
+    "id": 451,
+    "domain": "geriatric_psychiatry",
+    "front": "Why do older adults experience greater intoxication from alcohol at lower doses than younger adults?",
+    "back": "Decreased lean body mass, reduced hepatic metabolism, and increased blood-brain barrier permeability amplify alcohol's effects at a given dose."
+  },
+  {
+    "id": 452,
+    "domain": "geriatric_psychiatry",
+    "front": "Which benzodiazepines are preferred for alcohol withdrawal in older adults with hepatic impairment?",
+    "back": "Lorazepam and oxazepam, since they are metabolized by glucuronidation rather than extensive hepatic oxidative metabolism."
+  },
+  {
+    "id": 453,
+    "domain": "geriatric_psychiatry",
+    "front": "How should chronic benzodiazepine use be discontinued in an older adult?",
+    "back": "With a gradual taper over weeks to months, along with patient education about expected withdrawal symptoms such as rebound anxiety and insomnia."
+  },
+  {
+    "id": 454,
+    "domain": "geriatric_psychiatry",
+    "front": "What should be reviewed regardless of a patient's age before renewing an opioid prescription?",
+    "back": "The prescription drug monitoring program database, along with screening for opioid use disorder."
+  },
+  {
+    "id": 455,
+    "domain": "geriatric_psychiatry",
+    "front": "When should naloxone co-prescribing be considered for an older adult on chronic opioid therapy?",
+    "back": "When additional risk factors are present, such as concurrent benzodiazepine use or a history of substance use disorder."
+  },
+  {
+    "id": 456,
+    "domain": "geriatric_psychiatry",
+    "front": "What is hyperorality and in which condition is it a recognized feature?",
+    "back": "Excessive eating of sweets or attempts to eat non-food items; it is a recognized behavioral feature of behavioral variant frontotemporal dementia."
+  },
+  {
+    "id": 457,
+    "domain": "geriatric_psychiatry",
+    "front": "How do the semantic and nonfluent agrammatic variants of primary progressive aphasia differ?",
+    "back": "The semantic variant shows fluent speech with loss of word and object meaning, while the nonfluent agrammatic variant shows effortful, halting, grammatically impaired speech."
+  },
+  {
+    "id": 458,
+    "domain": "geriatric_psychiatry",
+    "front": "What MRI finding pattern is typical of Alzheimer disease versus vascular neurocognitive disorder?",
+    "back": "Alzheimer disease shows hippocampal and medial temporal atrophy, while vascular disease shows white matter hyperintensities and lacunar or strategic infarcts."
+  },
+  {
+    "id": 459,
+    "domain": "geriatric_psychiatry",
+    "front": "What must always be considered first in an older adult with acute new confusion and hallucinations?",
+    "back": "Delirium and its underlying medical causes must be excluded before attributing symptoms to a primary psychiatric disorder."
+  },
+  {
+    "id": 460,
+    "domain": "geriatric_psychiatry",
+    "front": "Why should nonpharmacologic interventions always be tried first for behavioral symptoms of dementia?",
+    "back": "Because reversible medical and environmental triggers such as pain, constipation, infection, and unmet needs are common and treatable causes of new agitation."
+  },
+  {
+    "id": 461,
+    "domain": "gerontology",
+    "front": "What is the Hayflick limit?",
+    "back": "The finite number of divisions, roughly 40 to 60, that a normal somatic cell can complete in culture before entering replicative senescence."
+  },
+  {
+    "id": 462,
+    "domain": "gerontology",
+    "front": "Why do telomeres shorten with each cell division?",
+    "back": "DNA polymerase cannot fully replicate the extreme end of a linear chromosome, the end-replication problem, so telomeric TTAGGG repeats progressively shorten each division."
+  },
+  {
+    "id": 463,
+    "domain": "gerontology",
+    "front": "Why is mitochondrial DNA more vulnerable to oxidative damage than nuclear DNA?",
+    "back": "It lacks protective histones, has limited repair capacity, and sits in close proximity to reactive oxygen species generated by the electron transport chain."
+  },
+  {
+    "id": 464,
+    "domain": "gerontology",
+    "front": "What is the senescence-associated secretory phenotype (SASP)?",
+    "back": "The active secretory state of senescent cells, releasing pro-inflammatory cytokines such as IL-6, IL-8, and TNF-alpha that drive chronic inflammaging."
+  },
+  {
+    "id": 465,
+    "domain": "gerontology",
+    "front": "Define hormesis.",
+    "back": "A mild, repeated cellular stress that produces an adaptive protective response, improving resilience against later, larger stressors; caloric restriction is the classic example."
+  },
+  {
+    "id": 466,
+    "domain": "gerontology",
+    "front": "What does mTOR do, and what happens when it is inhibited by rapamycin?",
+    "back": "mTOR is a nutrient-sensing kinase that drives growth and protein synthesis while suppressing autophagy; rapamycin inhibition extends lifespan in model organisms."
+  },
+  {
+    "id": 467,
+    "domain": "gerontology",
+    "front": "What is the Horvath epigenetic clock?",
+    "back": "A tool that estimates biological age from DNA methylation patterns at defined CpG sites, often predicting mortality risk better than chronological age."
+  },
+  {
+    "id": 468,
+    "domain": "gerontology",
+    "front": "What is loss of proteostasis?",
+    "back": "Declining efficiency of the ubiquitin-proteasome system and autophagy, leading to accumulation of misfolded and aggregated proteins, implicated in neurodegenerative disease."
+  },
+  {
+    "id": 469,
+    "domain": "gerontology",
+    "front": "Define inflammaging.",
+    "back": "Chronic, low-grade systemic inflammation seen with aging, reflected by elevated IL-6 and CRP, associated with frailty and increased mortality."
+  },
+  {
+    "id": 470,
+    "domain": "gerontology",
+    "front": "Which age group is the fastest growing segment of the US older adult population?",
+    "back": "The oldest-old, adults aged 85 and above, projected to more than double between 2022 and 2050."
+  },
+  {
+    "id": 471,
+    "domain": "gerontology",
+    "front": "What is the old-age dependency ratio?",
+    "back": "The ratio of adults 65 and older to the working-age population aged 20 to 64, used to project strain on Social Security, Medicare, and long-term care workforce capacity."
+  },
+  {
+    "id": 472,
+    "domain": "gerontology",
+    "front": "What primarily explains the historical life expectancy gap between non-Hispanic Black and non-Hispanic white Americans?",
+    "back": "Structural racism, differential access to care, and higher chronic disease burden, not any inherent biological difference in aging."
+  },
+  {
+    "id": 473,
+    "domain": "gerontology",
+    "front": "Define social determinants of health.",
+    "back": "Nonmedical conditions such as housing stability, transportation access, food security, and health literacy that shape health outcomes, often more powerfully than clinical care."
+  },
+  {
+    "id": 474,
+    "domain": "gerontology",
+    "front": "How does loneliness compare to smoking and obesity as a mortality risk factor?",
+    "back": "Social isolation and loneliness are independent mortality risk factors with an effect size comparable to smoking or obesity."
+  },
+  {
+    "id": 475,
+    "domain": "gerontology",
+    "front": "What causes isolated systolic hypertension with widened pulse pressure in normal aging?",
+    "back": "Arterial stiffening from collagen cross-linking and elastin fragmentation in the vessel wall, increasing pulse wave velocity."
+  },
+  {
+    "id": 476,
+    "domain": "gerontology",
+    "front": "Why does maximal heart rate decline with age?",
+    "back": "Reduced beta-adrenergic receptor responsiveness, not primarily intrinsic sinus node disease."
+  },
+  {
+    "id": 477,
+    "domain": "gerontology",
+    "front": "What is the approximate normal GFR decline rate with aging after age 40?",
+    "back": "Approximately 1 mL/min/1.73m2 per year in many, though not all, individuals."
+  },
+  {
+    "id": 478,
+    "domain": "gerontology",
+    "front": "Why does phase I hepatic drug metabolism decline with age while phase II is preserved?",
+    "back": "Declining hepatic blood flow and hepatic mass reduce cytochrome P450-mediated phase I metabolism, while conjugation-based phase II reactions are relatively preserved."
+  },
+  {
+    "id": 479,
+    "domain": "gerontology",
+    "front": "What cognitive domains typically decline with normal aging, and what is preserved?",
+    "back": "Processing speed and working memory decline, while crystallized intelligence and vocabulary remain relatively preserved."
+  },
+  {
+    "id": 480,
+    "domain": "gerontology",
+    "front": "Define sarcopenia and which fiber type it preferentially affects.",
+    "back": "Progressive age-related loss of skeletal muscle mass and strength, preferentially affecting type II fast-twitch fibers over type I slow-twitch fibers."
+  },
+  {
+    "id": 481,
+    "domain": "gerontology",
+    "front": "What drives immunosenescence and its effect on vaccine response?",
+    "back": "Thymic involution reduces naive T cell output and shifts the repertoire toward less diverse memory phenotypes, blunting vaccine responses in older adults."
+  },
+  {
+    "id": 482,
+    "domain": "gerontology",
+    "front": "Is menopause classified as a disease or a normal aging event?",
+    "back": "A universal, physiologic event of normal female reproductive aging, though it carries downstream implications for bone and cardiovascular health."
+  },
+  {
+    "id": 483,
+    "domain": "gerontology",
+    "front": "How does age-related body composition change affect dosing of lipophilic drugs?",
+    "back": "Increased fat mass and decreased lean mass and total body water increase the volume of distribution of lipophilic drugs, potentially prolonging their effect."
+  },
+  {
+    "id": 484,
+    "domain": "gerontology",
+    "front": "Define allostatic load.",
+    "back": "Cumulative physiologic wear from chronic stress exposure across neuroendocrine, cardiovascular, metabolic, and immune systems, higher in those facing chronic socioeconomic adversity."
+  },
+  {
+    "id": 485,
+    "domain": "gerontology",
+    "front": "What did large randomized trials show about antioxidant vitamin supplementation and lifespan?",
+    "back": "They failed to show lifespan or mortality benefit, and some trials showed increased harm, tempering enthusiasm for the free radical theory as a complete explanation."
+  },
+  {
+    "id": 486,
+    "domain": "functional_assessment_and_rehabilitation",
+    "front": "What six domains does the Katz Index of Independence in Activities of Daily Living assess?",
+    "back": "Bathing, dressing, toileting, transferring, continence, and feeding, each scored as independent or dependent for a total score from 0 to 6."
+  },
+  {
+    "id": 487,
+    "domain": "functional_assessment_and_rehabilitation",
+    "front": "In what order are basic ADLs typically lost as functional decline progresses?",
+    "back": "Bathing is usually lost first, followed by dressing, toileting, transferring, and continence, with feeding lost last, roughly the reverse of the order children acquire these skills."
+  },
+  {
+    "id": 488,
+    "domain": "functional_assessment_and_rehabilitation",
+    "front": "What eight domains does the Lawton Instrumental Activities of Daily Living Scale assess?",
+    "back": "Telephone use, shopping, food preparation, housekeeping, laundry, transportation, medication management, and handling finances."
+  },
+  {
+    "id": 489,
+    "domain": "functional_assessment_and_rehabilitation",
+    "front": "Why is IADL decline often clinically useful for detecting early dementia?",
+    "back": "IADL loss typically precedes basic ADL loss and often predates a formal dementia diagnosis by months to years, making it an early functional marker."
+  },
+  {
+    "id": 490,
+    "domain": "functional_assessment_and_rehabilitation",
+    "front": "Why should collateral history be obtained when assessing functional status in a cognitively impaired patient?",
+    "back": "Patients with cognitive impairment commonly overestimate their own abilities, so a discrepancy between patient and caregiver report can be a clue to anosognosia or early dementia."
+  },
+  {
+    "id": 491,
+    "domain": "functional_assessment_and_rehabilitation",
+    "front": "What distinguishes the primary focus of occupational therapy from physical therapy in geriatric rehabilitation?",
+    "back": "Physical therapy addresses gross motor function such as strength, balance, and gait, while occupational therapy addresses fine motor skills, ADL and IADL performance, cognitive strategies, and home safety."
+  },
+  {
+    "id": 492,
+    "domain": "functional_assessment_and_rehabilitation",
+    "front": "How should a single-point cane be sized and on which side should it be held?",
+    "back": "The top of the cane should align with the wrist crease, producing 20 to 30 degrees of elbow flexion, and it should be held in the hand opposite the affected leg."
+  },
+  {
+    "id": 493,
+    "domain": "functional_assessment_and_rehabilitation",
+    "front": "What advantage does a front-wheeled walker have over a standard non-wheeled walker for a patient with Parkinson disease?",
+    "back": "It allows a more natural gait pattern since it does not need to be fully lifted with each step, unlike a standard walker."
+  },
+  {
+    "id": 494,
+    "domain": "functional_assessment_and_rehabilitation",
+    "front": "Which cognitive domains most consistently correlate with driving safety in older adults?",
+    "back": "Visuospatial processing, divided attention, executive function, and processing speed."
+  },
+  {
+    "id": 495,
+    "domain": "functional_assessment_and_rehabilitation",
+    "front": "What is the gold standard evaluation when there is clinical concern about an older adult's fitness to drive?",
+    "back": "A formal on-road driving evaluation performed by a certified driving rehabilitation specialist, since office-based cognitive testing alone has only moderate predictive value."
+  },
+  {
+    "id": 496,
+    "domain": "functional_assessment_and_rehabilitation",
+    "front": "What minimum therapy intensity is required for admission to an acute inpatient rehabilitation facility?",
+    "back": "At least three hours of therapy daily, five to six days per week, across at least two therapy disciplines, with daily or near-daily physician oversight."
+  },
+  {
+    "id": 497,
+    "domain": "functional_assessment_and_rehabilitation",
+    "front": "What defines eligibility for home health services?",
+    "back": "The patient must be homebound, meaning leaving home requires considerable effort and is infrequent, and needs only intermittent skilled care."
+  },
+  {
+    "id": 498,
+    "domain": "functional_assessment_and_rehabilitation",
+    "front": "How does postoperative delirium after hip fracture surgery affect rehabilitation outcomes?",
+    "back": "It significantly impairs participation in rehabilitation and predicts worse functional outcomes and higher mortality."
+  },
+  {
+    "id": 499,
+    "domain": "functional_assessment_and_rehabilitation",
+    "front": "What are the strongest predictors of returning to a prior living situation after hip fracture?",
+    "back": "Premorbid functional status, cognitive status, social support, and the severity of the acute functional insult itself."
+  },
+  {
+    "id": 500,
+    "domain": "functional_assessment_and_rehabilitation",
+    "front": "What interventions define an orthogeriatric comanagement model for hip fracture patients?",
+    "back": "Early mobilization within 24 to 48 hours after surgery, proactive delirium prevention, adequate pain control avoiding oversedation, and early geriatric consultation."
+  }
+]
